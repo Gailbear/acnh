@@ -2,8 +2,61 @@
 <html>
 <head>
     <title>ACNH Item Utilities</title>
+    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-typeahead/2.11.0/jquery.typeahead.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/jquery-typeahead/2.11.0/jquery.typeahead.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/pretty-print-json@0.2.1/dist/pretty-print-json.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-print-json@0.2.1/pretty-print-json.css">
 </head>
 <body>
     <h1> This will eventually help with items</h1>
+    <form>
+       <div class="typeahead__container">
+            <div class="typeahead__field">
+                <div class="typeahead__query">
+                    <input class="js-typeahead"
+                           name="q"
+                           autocomplete="off">
+                </div>
+                <div class="typeahead__button">
+                    <button type="submit">
+                        <span class="typeahead__search-icon"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </form>
+    <pre id="target"></pre>
+    <script type="text/javascript">
+    (function() {
+        $.getJSON("https://gailbear.github.io/acnh/acnh_items.json", null).done(function(data) {
+            var items = data.results;
+
+            var getItemByName = function(name) {
+                return items.filter(i => i.name === name);
+            }
+
+            var itemNames = items.map(i => i.name);
+
+            $('.js-typeahead').typeahead({
+                order: 'asc',
+                source: {
+                    groupName: {
+                        data: itemNames
+                    }
+                },
+                callback: {
+                    onClickAfter: (a, b, result, e) => {
+                        var itemName = result[result.matchedKey];
+                        var resultJson = getItemByName(itemName);
+                        $('#target').html(prettyPrintJson.toHtml(resultJson));
+                    },
+                }
+            });
+
+            console.log(getItemByName('Wooden-block stereo'));
+        });
+    })();
+    </script>
 </body>
 </html>
