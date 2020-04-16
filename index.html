@@ -5,8 +5,6 @@
     <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-typeahead/2.11.0/jquery.typeahead.js"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/jquery-typeahead/2.11.0/jquery.typeahead.css" rel="stylesheet" />
-    <script src="https://cdn.jsdelivr.net/npm/pretty-print-json@0.2.1/dist/pretty-print-json.min.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-print-json@0.2.1/pretty-print-json.css">
 </head>
 <body>
     <h1> This will eventually help with items</h1>
@@ -26,7 +24,7 @@
             </div>
         </div>
     </form>
-    <pre id="target"></pre>
+    <div id="target"></div>
     <script type="text/javascript">
     (function() {
         $.getJSON("https://gailbear.github.io/acnh/acnh_items.json", null).done(function(data) {
@@ -35,6 +33,8 @@
             var getItemByName = function(name) {
                 return items.filter(i => i.name === name);
             }
+
+            var recipes = items.filter(i => i.category === "Recipes");
 
             var itemNames = items.map(i => i.name);
 
@@ -48,8 +48,19 @@
                 callback: {
                     onClickAfter: (a, b, result, e) => {
                         var itemName = result[result.matchedKey];
-                        var resultJson = getItemByName(itemName);
-                        $('#target').html(prettyPrintJson.toHtml(resultJson));
+                        var result = getItemByName(itemName);
+                        $('#target').html('');
+                        result.reverse();
+                        var megaObject = Object.assign({}, ...result);
+                        var ul = $('#target').add('ul');
+                        Object.keys(megaObject).map(key => {
+                            var valString = megaObject[key]
+                            if (key === 'materials') {
+                                var mats = megaObject.materials;
+                                valString = mats.map(mat => `${mat.count} ${mat.itemName}`).join(', ');
+                            }
+                            ul.append(`<li><b>${key}</b>: ${valString}</li>`);
+                        });
                     },
                 }
             });
