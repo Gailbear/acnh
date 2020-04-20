@@ -1,0 +1,5773 @@
+[
+  {
+    "name": "Acorn pochette",
+    "mats": {
+      "Acorn": 6
+    },
+    "hot_price": 4800,
+    "mat_sell": 1200,
+    "ratio": 4
+  },
+  {
+    "name": "Acoustic guitar",
+    "mats": {
+      "Softwood": 8,
+      "Iron nugget": 3
+    },
+    "hot_price": 6420,
+    "mat_sell": 1605,
+    "ratio": 4
+  },
+  {
+    "name": "Angled signpost",
+    "mats": {
+      "Hardwood": 2,
+      "Softwood": 3
+    },
+    "hot_price": 1200,
+    "mat_sell": 300,
+    "ratio": 4
+  },
+  {
+    "name": "Apple chair",
+    "mats": {
+      "Apple": 10,
+      "Wood": 4
+    },
+    "hot_price": 4960,
+    "mat_sell": 5240,
+    "ratio": 0.9465648854961832
+  },
+  {
+    "name": "Apple dress",
+    "mats": {
+      "Apple": 8
+    },
+    "hot_price": 3200,
+    "mat_sell": 4000,
+    "ratio": 0.8
+  },
+  {
+    "name": "Apple hat",
+    "mats": {
+      "Apple": 5
+    },
+    "hot_price": 2000,
+    "mat_sell": 2500,
+    "ratio": 0.8
+  },
+  {
+    "name": "Apple rug",
+    "mats": {
+      "Apple": 6
+    },
+    "hot_price": 2400,
+    "mat_sell": 3000,
+    "ratio": 0.8
+  },
+  {
+    "name": "Apple umbrella",
+    "mats": {
+      "Apple": 7
+    },
+    "hot_price": 2800,
+    "mat_sell": 3500,
+    "ratio": 0.8
+  },
+  {
+    "name": "Apple wall",
+    "mats": {
+      "Apple": 20
+    },
+    "hot_price": 8000,
+    "mat_sell": 10000,
+    "ratio": 0.8
+  },
+  {
+    "name": "Aquarius urn",
+    "mats": {
+      "Star fragment": 3,
+      "Aquarius fragment": 2,
+      "Gold nugget": 2,
+      "Stone": 5
+    },
+    "hot_price": 44250,
+    "mat_sell": 22125,
+    "ratio": 2
+  },
+  {
+    "name": "Aries rocking chair",
+    "mats": {
+      "Star fragment": 3,
+      "Aries fragment": 2,
+      "Gold nugget": 1,
+      "Stone": 5
+    },
+    "hot_price": 24250,
+    "mat_sell": 12125,
+    "ratio": 2
+  },
+  {
+    "name": "Armor shoes",
+    "mats": {
+      "Iron nugget": 4
+    },
+    "hot_price": 6000,
+    "mat_sell": 1500,
+    "ratio": 4
+  },
+  {
+    "name": "Aroma pot",
+    "mats": {
+      "Clay": 3
+    },
+    "hot_price": 1200,
+    "mat_sell": 300,
+    "ratio": 4
+  },
+  {
+    "name": "Asteroid",
+    "mats": {
+      "Star fragment": 5,
+      "Stone": 10
+    },
+    "hot_price": 8000,
+    "mat_sell": 2000,
+    "ratio": 4
+  },
+  {
+    "name": "Astronaut suit",
+    "mats": {
+      "Star fragment": 5,
+      "Iron nugget": 5
+    },
+    "hot_price": 12500,
+    "mat_sell": 3125,
+    "ratio": 4
+  },
+  {
+    "name": "Autumn wall",
+    "mats": {
+      "Maple leaf": 10,
+      "Wood": 5,
+      "Clump of weeds": 5
+    },
+    "hot_price": 9400,
+    "mat_sell": 340,
+    "ratio": 27.647058823529413
+  },
+  {
+    "name": "Axe",
+    "mats": {
+      "Tree branch": 5,
+      "Stone": 1,
+      "Wood": 3,
+      "Iron nugget": 1
+    },
+    "hot_price": 1250,
+    "mat_sell": 655,
+    "ratio": 1.9083969465648856
+  },
+  {
+    "name": "Bamboo basket",
+    "mats": {
+      "Bamboo piece": 7
+    },
+    "hot_price": 2240,
+    "mat_sell": 560,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo bench",
+    "mats": {
+      "Bamboo piece": 8
+    },
+    "hot_price": 2560,
+    "mat_sell": 640,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo candleholder",
+    "mats": {
+      "Bamboo piece": 3,
+      "Clay": 2
+    },
+    "hot_price": 1760,
+    "mat_sell": 440,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo doll",
+    "mats": {
+      "Young spring bamboo": 6
+    },
+    "hot_price": 4800,
+    "mat_sell": 1200,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo drum",
+    "mats": {
+      "Bamboo piece": 3,
+      "Softwood": 2
+    },
+    "hot_price": 1440,
+    "mat_sell": 360,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo floor lamp",
+    "mats": {
+      "Bamboo piece": 8
+    },
+    "hot_price": 2560,
+    "mat_sell": 640,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo flooring",
+    "mats": {
+      "Bamboo piece": 15
+    },
+    "hot_price": 4800,
+    "mat_sell": 1200,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo hat",
+    "mats": {
+      "Clump of weeds": 10
+    },
+    "hot_price": 400,
+    "mat_sell": 100,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo lattice fence",
+    "mats": {
+      "Bamboo piece": 6
+    },
+    "hot_price": -2,
+    "mat_sell": 480,
+    "ratio": -0.004166666666666667
+  },
+  {
+    "name": "Bamboo lunch box",
+    "mats": {
+      "Bamboo piece": 4
+    },
+    "hot_price": 1280,
+    "mat_sell": 320,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo noodle slide",
+    "mats": {
+      "Young spring bamboo": 7,
+      "Wood": 3
+    },
+    "hot_price": 6320,
+    "mat_sell": 1580,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo partition",
+    "mats": {
+      "Bamboo piece": 7,
+      "Stone": 6
+    },
+    "hot_price": 4040,
+    "mat_sell": 1010,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo shelf",
+    "mats": {
+      "Bamboo piece": 15
+    },
+    "hot_price": 4800,
+    "mat_sell": 1200,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo speaker",
+    "mats": {
+      "Bamboo piece": 3,
+      "Iron nugget": 1
+    },
+    "hot_price": 2460,
+    "mat_sell": 615,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo sphere",
+    "mats": {
+      "Bamboo piece": 3
+    },
+    "hot_price": 960,
+    "mat_sell": 240,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo stool",
+    "mats": {
+      "Bamboo piece": 5
+    },
+    "hot_price": 1600,
+    "mat_sell": 400,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo stopblock",
+    "mats": {
+      "Bamboo piece": 3
+    },
+    "hot_price": 960,
+    "mat_sell": 240,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo wall",
+    "mats": {
+      "Bamboo piece": 15
+    },
+    "hot_price": 4800,
+    "mat_sell": 1200,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo wall decoration",
+    "mats": {
+      "Bamboo piece": 1
+    },
+    "hot_price": 320,
+    "mat_sell": 80,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo wand",
+    "mats": {
+      "Young spring bamboo": 6,
+      "Star fragment": 3
+    },
+    "hot_price": 7800,
+    "mat_sell": 1950,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo-grove wall",
+    "mats": {
+      "Young spring bamboo": 7,
+      "Bamboo shoot": 3
+    },
+    "hot_price": 8600,
+    "mat_sell": 2150,
+    "ratio": 4
+  },
+  {
+    "name": "Bamboo-shoot lamp",
+    "mats": {
+      "Young spring bamboo": 4,
+      "Bamboo shoot": 5,
+      "Clay": 4
+    },
+    "hot_price": 9800,
+    "mat_sell": 2450,
+    "ratio": 4
+  },
+  {
+    "name": "Barbed-wire fence",
+    "mats": {
+      "Hardwood": 3,
+      "Iron nugget": 2
+    },
+    "hot_price": -2,
+    "mat_sell": 930,
+    "ratio": -0.002150537634408602
+  },
+  {
+    "name": "Barbell",
+    "mats": {
+      "Iron nugget": 10
+    },
+    "hot_price": 15000,
+    "mat_sell": 3750,
+    "ratio": 4
+  },
+  {
+    "name": "Barrel",
+    "mats": {
+      "Wood": 5,
+      "Iron nugget": 2
+    },
+    "hot_price": 4200,
+    "mat_sell": 1050,
+    "ratio": 4
+  },
+  {
+    "name": "Basement flooring",
+    "mats": {
+      "Stone": 10
+    },
+    "hot_price": 3000,
+    "mat_sell": 750,
+    "ratio": 4
+  },
+  {
+    "name": "Basket pack",
+    "mats": {
+      "Young spring bamboo": 6
+    },
+    "hot_price": 4800,
+    "mat_sell": 1200,
+    "ratio": 4
+  },
+  {
+    "name": "Beekeeper's hive",
+    "mats": {
+      "Wasp nest": 3,
+      "Wood": 5
+    },
+    "hot_price": 4800,
+    "mat_sell": 1200,
+    "ratio": 4
+  },
+  {
+    "name": "Big festive tree",
+    "mats": {
+      "Red ornament": 6,
+      "Blue ornament": 6,
+      "Gold ornament": 4,
+      "Wood": 5,
+      "Clay": 5
+    },
+    "hot_price": 6400,
+    "mat_sell": 1600,
+    "ratio": 4
+  },
+  {
+    "name": "Birdbath",
+    "mats": {
+      "Stone": 6
+    },
+    "hot_price": 1800,
+    "mat_sell": 450,
+    "ratio": 4
+  },
+  {
+    "name": "Birdcage",
+    "mats": {
+      "Wood": 8
+    },
+    "hot_price": 1920,
+    "mat_sell": 480,
+    "ratio": 4
+  },
+  {
+    "name": "Birdhouse",
+    "mats": {
+      "Wood": 2,
+      "Softwood": 5
+    },
+    "hot_price": 1680,
+    "mat_sell": 420,
+    "ratio": 4
+  },
+  {
+    "name": "Blossom-viewing lantern",
+    "mats": {
+      "Cherry": 6
+    },
+    "hot_price": 5760,
+    "mat_sell": 3000,
+    "ratio": 1.92
+  },
+  {
+    "name": "Blue rose crown",
+    "mats": {
+      "Blue roses": 6
+    },
+    "hot_price": 24000,
+    "mat_sell": 6000,
+    "ratio": 4
+  },
+  {
+    "name": "Blue rose wreath",
+    "mats": {
+      "Blue roses": 10
+    },
+    "hot_price": 40000,
+    "mat_sell": 10000,
+    "ratio": 4
+  },
+  {
+    "name": "Bone doorplate",
+    "mats": {
+      "Softwood": 3
+    },
+    "hot_price": 720,
+    "mat_sell": 180,
+    "ratio": 4
+  },
+  {
+    "name": "Bonfire",
+    "mats": {
+      "Tree branch": 3,
+      "Wood": 10
+    },
+    "hot_price": 2460,
+    "mat_sell": 615,
+    "ratio": 4
+  },
+  {
+    "name": "Bonsai shelf",
+    "mats": {
+      "Cherry": 1,
+      "Pine cone": 8,
+      "Clay": 5,
+      "Wood": 8
+    },
+    "hot_price": 16920,
+    "mat_sell": 3080,
+    "ratio": 5.4935064935064934
+  },
+  {
+    "name": "Boomerang",
+    "mats": {
+      "Hardwood": 3
+    },
+    "hot_price": 720,
+    "mat_sell": 180,
+    "ratio": 4
+  },
+  {
+    "name": "Brick fence",
+    "mats": {
+      "Clay": 6
+    },
+    "hot_price": -2,
+    "mat_sell": 600,
+    "ratio": -0.0033333333333333335
+  },
+  {
+    "name": "Brick oven",
+    "mats": {
+      "Clay": 8,
+      "Iron nugget": 2,
+      "Wood": 6
+    },
+    "hot_price": 7640,
+    "mat_sell": 1910,
+    "ratio": 4
+  },
+  {
+    "name": "Brick well",
+    "mats": {
+      "Clay": 8,
+      "Wood": 5,
+      "Hardwood": 5
+    },
+    "hot_price": 5600,
+    "mat_sell": 1400,
+    "ratio": 4
+  },
+  {
+    "name": "Brown herringbone wall",
+    "mats": {
+      "Softwood": 15
+    },
+    "hot_price": 3600,
+    "mat_sell": 900,
+    "ratio": 4
+  },
+  {
+    "name": "Bunny Day arch",
+    "mats": {
+      "Earth egg": 2,
+      "Stone egg": 2,
+      "Leaf egg": 2,
+      "Wood egg": 2,
+      "Sky egg": 2,
+      "Water egg": 2
+    },
+    "hot_price": 0,
+    "mat_sell": 2400,
+    "ratio": 0
+  },
+  {
+    "name": "Bunny Day bag",
+    "mats": {
+      "Earth egg": 1,
+      "Stone egg": 1,
+      "Leaf egg": 1,
+      "Wood egg": 1,
+      "Sky egg": 1,
+      "Water egg": 1
+    },
+    "hot_price": 0,
+    "mat_sell": 1200,
+    "ratio": 0
+  },
+  {
+    "name": "Bunny Day bed",
+    "mats": {
+      "Earth egg": 1,
+      "Stone egg": 1,
+      "Leaf egg": 1,
+      "Wood egg": 1,
+      "Sky egg": 1,
+      "Water egg": 1
+    },
+    "hot_price": 4800,
+    "mat_sell": 1200,
+    "ratio": 4
+  },
+  {
+    "name": "Bunny Day crown",
+    "mats": {
+      "Earth egg": 1,
+      "Stone egg": 1,
+      "Leaf egg": 1,
+      "Wood egg": 1,
+      "Sky egg": 1,
+      "Water egg": 1
+    },
+    "hot_price": 4800,
+    "mat_sell": 1200,
+    "ratio": 4
+  },
+  {
+    "name": "Bunny Day fence",
+    "mats": {
+      "Earth egg": 1,
+      "Stone egg": 1,
+      "Leaf egg": 1,
+      "Wood egg": 1,
+      "Sky egg": 1,
+      "Water egg": 1
+    },
+    "hot_price": -2,
+    "mat_sell": 1200,
+    "ratio": -0.0016666666666666668
+  },
+  {
+    "name": "Bunny Day festive balloons",
+    "mats": {
+      "Stone egg": 1,
+      "Wood egg": 1,
+      "Water egg": 1
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Bunny Day flooring",
+    "mats": {
+      "Earth egg": 2,
+      "Stone egg": 2,
+      "Leaf egg": 2,
+      "Wood egg": 2,
+      "Sky egg": 2,
+      "Water egg": 2
+    },
+    "hot_price": 0,
+    "mat_sell": 2400,
+    "ratio": 0
+  },
+  {
+    "name": "Bunny Day glowy garland",
+    "mats": {
+      "Earth egg": 1,
+      "Stone egg": 1,
+      "Leaf egg": 1,
+      "Wood egg": 1,
+      "Sky egg": 1,
+      "Water egg": 1
+    },
+    "hot_price": 4800,
+    "mat_sell": 1200,
+    "ratio": 4
+  },
+  {
+    "name": "Bunny Day lamp",
+    "mats": {
+      "Wood egg": 4
+    },
+    "hot_price": 3200,
+    "mat_sell": 800,
+    "ratio": 4
+  },
+  {
+    "name": "Bunny Day merry balloons",
+    "mats": {
+      "Earth egg": 1,
+      "Leaf egg": 1,
+      "Sky egg": 1
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Bunny Day rug",
+    "mats": {
+      "Earth egg": 1,
+      "Stone egg": 1,
+      "Leaf egg": 1,
+      "Wood egg": 1,
+      "Sky egg": 1,
+      "Water egg": 1
+    },
+    "hot_price": 4800,
+    "mat_sell": 1200,
+    "ratio": 4
+  },
+  {
+    "name": "Bunny Day stool",
+    "mats": {
+      "Water egg": 3
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Bunny Day table",
+    "mats": {
+      "Earth egg": 4
+    },
+    "hot_price": 3200,
+    "mat_sell": 800,
+    "ratio": 4
+  },
+  {
+    "name": "Bunny Day vanity",
+    "mats": {
+      "Leaf egg": 4
+    },
+    "hot_price": 3200,
+    "mat_sell": 800,
+    "ratio": 4
+  },
+  {
+    "name": "Bunny Day wall",
+    "mats": {
+      "Earth egg": 2,
+      "Stone egg": 2,
+      "Leaf egg": 2,
+      "Wood egg": 2,
+      "Sky egg": 2,
+      "Water egg": 2
+    },
+    "hot_price": 9600,
+    "mat_sell": 2400,
+    "ratio": 4
+  },
+  {
+    "name": "Bunny Day wall clock",
+    "mats": {
+      "Sky egg": 3
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Bunny Day wand",
+    "mats": {
+      "Earth egg": 4,
+      "Stone egg": 4,
+      "Leaf egg": 4,
+      "Wood egg": 4,
+      "Sky egg": 4,
+      "Water egg": 4,
+      "Star fragment": 3
+    },
+    "hot_price": 0,
+    "mat_sell": 5550,
+    "ratio": 0
+  },
+  {
+    "name": "Bunny Day wardrobe",
+    "mats": {
+      "Stone egg": 4
+    },
+    "hot_price": 3200,
+    "mat_sell": 800,
+    "ratio": 4
+  },
+  {
+    "name": "Bunny Day wreath",
+    "mats": {
+      "Earth egg": 1,
+      "Stone egg": 1,
+      "Leaf egg": 1,
+      "Wood egg": 1,
+      "Sky egg": 1,
+      "Water egg": 1
+    },
+    "hot_price": 4800,
+    "mat_sell": 1200,
+    "ratio": 4
+  },
+  {
+    "name": "Butter churn",
+    "mats": {
+      "Wood": 4,
+      "Iron nugget": 2
+    },
+    "hot_price": 3960,
+    "mat_sell": 990,
+    "ratio": 4
+  },
+  {
+    "name": "Cabin wall",
+    "mats": {
+      "Hardwood": 15
+    },
+    "hot_price": 3600,
+    "mat_sell": 900,
+    "ratio": 4
+  },
+  {
+    "name": "Campfire",
+    "mats": {
+      "Tree branch": 3
+    },
+    "hot_price": 60,
+    "mat_sell": 15,
+    "ratio": 4
+  },
+  {
+    "name": "Cancer table",
+    "mats": {
+      "Star fragment": 3,
+      "Cancer fragment": 2,
+      "Gold nugget": 2,
+      "Stone": 3
+    },
+    "hot_price": 43950,
+    "mat_sell": 21975,
+    "ratio": 2
+  },
+  {
+    "name": "Capricorn ornament",
+    "mats": {
+      "Star fragment": 3,
+      "Capricorn fragment": 2,
+      "Gold nugget": 2,
+      "Stone": 12
+    },
+    "hot_price": 45300,
+    "mat_sell": 22650,
+    "ratio": 2
+  },
+  {
+    "name": "Cardboard bed",
+    "mats": {
+      "Cardboard box": 4
+    },
+    "hot_price": 480,
+    "mat_sell": 120,
+    "ratio": 4
+  },
+  {
+    "name": "Cardboard chair",
+    "mats": {
+      "Cardboard box": 1
+    },
+    "hot_price": 120,
+    "mat_sell": 30,
+    "ratio": 4
+  },
+  {
+    "name": "Cardboard sofa",
+    "mats": {
+      "Cardboard box": 2
+    },
+    "hot_price": 240,
+    "mat_sell": 60,
+    "ratio": 4
+  },
+  {
+    "name": "Cardboard table",
+    "mats": {
+      "Cardboard box": 4
+    },
+    "hot_price": 480,
+    "mat_sell": 120,
+    "ratio": 4
+  },
+  {
+    "name": "Cherry dress",
+    "mats": {
+      "Cherry": 8
+    },
+    "hot_price": 3200,
+    "mat_sell": 4000,
+    "ratio": 0.8
+  },
+  {
+    "name": "Cherry hat",
+    "mats": {
+      "Cherry": 5
+    },
+    "hot_price": 2000,
+    "mat_sell": 2500,
+    "ratio": 0.8
+  },
+  {
+    "name": "Cherry lamp",
+    "mats": {
+      "Cherry": 10,
+      "Clay": 2
+    },
+    "hot_price": 4800,
+    "mat_sell": 5200,
+    "ratio": 0.9230769230769231
+  },
+  {
+    "name": "Cherry rug",
+    "mats": {
+      "Cherry": 6
+    },
+    "hot_price": 2400,
+    "mat_sell": 3000,
+    "ratio": 0.8
+  },
+  {
+    "name": "Cherry speakers",
+    "mats": {
+      "Cherry": 10,
+      "Iron nugget": 2
+    },
+    "hot_price": 7000,
+    "mat_sell": 5750,
+    "ratio": 1.2173913043478262
+  },
+  {
+    "name": "Cherry umbrella",
+    "mats": {
+      "Cherry": 7
+    },
+    "hot_price": 2800,
+    "mat_sell": 3500,
+    "ratio": 0.8
+  },
+  {
+    "name": "Cherry wall",
+    "mats": {
+      "Cherry": 20
+    },
+    "hot_price": 8000,
+    "mat_sell": 10000,
+    "ratio": 0.8
+  },
+  {
+    "name": "Cherry-blossom bonsai",
+    "mats": {
+      "Cherry": 6,
+      "Hardwood": 2,
+      "Clump of weeds": 3,
+      "Clay": 3
+    },
+    "hot_price": 6600,
+    "mat_sell": 3450,
+    "ratio": 1.9130434782608696
+  },
+  {
+    "name": "Cherry-blossom branches",
+    "mats": {
+      "Cherry": 8,
+      "Tree branch": 4,
+      "Clay": 5
+    },
+    "hot_price": 8480,
+    "mat_sell": 4520,
+    "ratio": 1.8761061946902655
+  },
+  {
+    "name": "Cherry-blossom clock",
+    "mats": {
+      "Cherry": 5
+    },
+    "hot_price": 5500,
+    "mat_sell": 2500,
+    "ratio": 2.2
+  },
+  {
+    "name": "Cherry-blossom flooring",
+    "mats": {
+      "Cherry": 10,
+      "Clump of weeds": 20
+    },
+    "hot_price": 8800,
+    "mat_sell": 5200,
+    "ratio": 1.6923076923076923
+  },
+  {
+    "name": "Cherry-blossom pochette",
+    "mats": {
+      "Cherry": 6
+    },
+    "hot_price": 4800,
+    "mat_sell": 3000,
+    "ratio": 1.6
+  },
+  {
+    "name": "Cherry-blossom pond stone",
+    "mats": {
+      "Stone": 10,
+      "Cherry": 3
+    },
+    "hot_price": 5400,
+    "mat_sell": 2250,
+    "ratio": 2.4
+  },
+  {
+    "name": "Cherry-blossom umbrella",
+    "mats": {
+      "Cherry": 7
+    },
+    "hot_price": 5600,
+    "mat_sell": 3500,
+    "ratio": 1.6
+  },
+  {
+    "name": "Cherry-blossom wand",
+    "mats": {
+      "Cherry": 3,
+      "Star fragment": 3
+    },
+    "hot_price": 5400,
+    "mat_sell": 2250,
+    "ratio": 2.4
+  },
+  {
+    "name": "Cherry-blossom-petal pile",
+    "mats": {
+      "Cherry": 5
+    },
+    "hot_price": 4000,
+    "mat_sell": 2500,
+    "ratio": 1.6
+  },
+  {
+    "name": "Cherry-blossom-trees wall",
+    "mats": {
+      "Cherry": 10,
+      "Hardwood": 5
+    },
+    "hot_price": 9200,
+    "mat_sell": 5300,
+    "ratio": 1.7358490566037736
+  },
+  {
+    "name": "Chic cosmos wreath",
+    "mats": {
+      "Black cosmos": 10
+    },
+    "hot_price": 9600,
+    "mat_sell": 2400,
+    "ratio": 4
+  },
+  {
+    "name": "Chic mum crown",
+    "mats": {
+      "Purple mums": 3,
+      "Pink mums": 3
+    },
+    "hot_price": 1920,
+    "mat_sell": 480,
+    "ratio": 4
+  },
+  {
+    "name": "Chic rose crown",
+    "mats": {
+      "Purple roses": 3,
+      "Black roses": 3
+    },
+    "hot_price": 5760,
+    "mat_sell": 1440,
+    "ratio": 4
+  },
+  {
+    "name": "Chic tulip crown",
+    "mats": {
+      "Purple tulips": 2,
+      "Pink tulips": 2,
+      "Orange tulips": 1
+    },
+    "hot_price": 2880,
+    "mat_sell": 720,
+    "ratio": 4
+  },
+  {
+    "name": "Chic windflower wreath",
+    "mats": {
+      "Purple windflowers": 10
+    },
+    "hot_price": 9600,
+    "mat_sell": 2400,
+    "ratio": 4
+  },
+  {
+    "name": "Chocolate herringbone wall",
+    "mats": {
+      "Softwood": 15
+    },
+    "hot_price": 3600,
+    "mat_sell": 900,
+    "ratio": 4
+  },
+  {
+    "name": "Clackercart",
+    "mats": {
+      "Hardwood": 2,
+      "Softwood": 6
+    },
+    "hot_price": 1920,
+    "mat_sell": 480,
+    "ratio": 4
+  },
+  {
+    "name": "Classic pitcher",
+    "mats": {
+      "Clay": 4
+    },
+    "hot_price": 1600,
+    "mat_sell": 400,
+    "ratio": 4
+  },
+  {
+    "name": "Classic-library wall",
+    "mats": {
+      "Book": 10
+    },
+    "hot_price": 2900,
+    "mat_sell": 720,
+    "ratio": 4.027777777777778
+  },
+  {
+    "name": "Clothesline",
+    "mats": {
+      "Tree branch": 10
+    },
+    "hot_price": 200,
+    "mat_sell": 50,
+    "ratio": 4
+  },
+  {
+    "name": "Coconut juice",
+    "mats": {
+      "Coconut": 1
+    },
+    "hot_price": 1000,
+    "mat_sell": 250,
+    "ratio": 4
+  },
+  {
+    "name": "Coconut wall planter",
+    "mats": {
+      "Coconut": 1,
+      "Clump of weeds": 5
+    },
+    "hot_price": 1200,
+    "mat_sell": 300,
+    "ratio": 4
+  },
+  {
+    "name": "Colored-leaves flooring",
+    "mats": {
+      "Maple leaf": 10,
+      "Clump of weeds": 15
+    },
+    "hot_price": 8600,
+    "mat_sell": 140,
+    "ratio": 61.42857142857143
+  },
+  {
+    "name": "Cool hyacinth crown",
+    "mats": {
+      "Blue hyacinths": 4,
+      "Pink hyacinths": 2,
+      "Orange hyacinths": 2
+    },
+    "hot_price": 2560,
+    "mat_sell": 640,
+    "ratio": 4
+  },
+  {
+    "name": "Cool hyacinth wreath",
+    "mats": {
+      "Orange hyacinths": 3,
+      "Blue hyacinths": 3,
+      "Pink hyacinths": 3
+    },
+    "hot_price": 2880,
+    "mat_sell": 720,
+    "ratio": 4
+  },
+  {
+    "name": "Cool pansy crown",
+    "mats": {
+      "Orange pansies": 3,
+      "Blue pansies": 3
+    },
+    "hot_price": 1920,
+    "mat_sell": 480,
+    "ratio": 4
+  },
+  {
+    "name": "Cool pansy wreath",
+    "mats": {
+      "Purple pansies": 10
+    },
+    "hot_price": 9600,
+    "mat_sell": 2400,
+    "ratio": 4
+  },
+  {
+    "name": "Cool windflower crown",
+    "mats": {
+      "Blue windflowers": 3,
+      "Pink windflowers": 3
+    },
+    "hot_price": 1920,
+    "mat_sell": 480,
+    "ratio": 4
+  },
+  {
+    "name": "Cool windflower wreath",
+    "mats": {
+      "Blue windflowers": 3,
+      "Pink windflowers": 3,
+      "White windflowers": 3
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Corral fence",
+    "mats": {
+      "Wood": 6
+    },
+    "hot_price": -2,
+    "mat_sell": 360,
+    "ratio": -0.005555555555555556
+  },
+  {
+    "name": "Cosmos crown",
+    "mats": {
+      "Red cosmos": 2,
+      "Yellow cosmos": 2,
+      "White cosmos": 3
+    },
+    "hot_price": 960,
+    "mat_sell": 280,
+    "ratio": 3.4285714285714284
+  },
+  {
+    "name": "Cosmos shower",
+    "mats": {
+      "Pink cosmos": 5,
+      "Iron nugget": 3
+    },
+    "hot_price": 6100,
+    "mat_sell": 1525,
+    "ratio": 4
+  },
+  {
+    "name": "Cosmos wand",
+    "mats": {
+      "White cosmos": 1,
+      "Star fragment": 3
+    },
+    "hot_price": 3160,
+    "mat_sell": 790,
+    "ratio": 4
+  },
+  {
+    "name": "Cosmos wreath",
+    "mats": {
+      "Yellow cosmos": 3,
+      "White cosmos": 3,
+      "Red cosmos": 3
+    },
+    "hot_price": 1440,
+    "mat_sell": 360,
+    "ratio": 4
+  },
+  {
+    "name": "Country fence",
+    "mats": {
+      "Hardwood": 6
+    },
+    "hot_price": -2,
+    "mat_sell": 360,
+    "ratio": -0.005555555555555556
+  },
+  {
+    "name": "Crescent-moon chair",
+    "mats": {
+      "Star fragment": 7,
+      "Large star fragment": 1
+    },
+    "hot_price": 17000,
+    "mat_sell": 4250,
+    "ratio": 4
+  },
+  {
+    "name": "Crest doorplate",
+    "mats": {
+      "Iron nugget": 4
+    },
+    "hot_price": 6000,
+    "mat_sell": 1500,
+    "ratio": 4
+  },
+  {
+    "name": "Crewed spaceship",
+    "mats": {
+      "Star fragment": 10,
+      "Iron nugget": 20
+    },
+    "hot_price": 40000,
+    "mat_sell": 10000,
+    "ratio": 4
+  },
+  {
+    "name": "Cute lily crown",
+    "mats": {
+      "Pink lilies": 2,
+      "Orange lilies": 2,
+      "White lilies": 2
+    },
+    "hot_price": 1600,
+    "mat_sell": 400,
+    "ratio": 4
+  },
+  {
+    "name": "Cute rose crown",
+    "mats": {
+      "Pink roses": 3,
+      "Orange roses": 3
+    },
+    "hot_price": 1920,
+    "mat_sell": 480,
+    "ratio": 4
+  },
+  {
+    "name": "Cutting board",
+    "mats": {
+      "Hardwood": 2,
+      "Iron nugget": 1
+    },
+    "hot_price": 1980,
+    "mat_sell": 495,
+    "ratio": 4
+  },
+  {
+    "name": "DIY workbench",
+    "mats": {
+      "Wood": 8,
+      "Hardwood": 8,
+      "Softwood": 8,
+      "Iron nugget": 5
+    },
+    "hot_price": 13260,
+    "mat_sell": 3315,
+    "ratio": 4
+  },
+  {
+    "name": "Dark bamboo rug",
+    "mats": {
+      "Bamboo piece": 6
+    },
+    "hot_price": 1920,
+    "mat_sell": 480,
+    "ratio": 4
+  },
+  {
+    "name": "Dark cosmos crown",
+    "mats": {
+      "Black cosmos": 7
+    },
+    "hot_price": 6720,
+    "mat_sell": 1680,
+    "ratio": 4
+  },
+  {
+    "name": "Dark lily crown",
+    "mats": {
+      "Black lilies": 6
+    },
+    "hot_price": 1920,
+    "mat_sell": 480,
+    "ratio": 4
+  },
+  {
+    "name": "Dark lily wreath",
+    "mats": {
+      "Black lilies": 10
+    },
+    "hot_price": 3200,
+    "mat_sell": 800,
+    "ratio": 4
+  },
+  {
+    "name": "Dark rose wreath",
+    "mats": {
+      "Black roses": 3,
+      "Purple roses": 6
+    },
+    "hot_price": 8640,
+    "mat_sell": 2160,
+    "ratio": 4
+  },
+  {
+    "name": "Dark tulip crown",
+    "mats": {
+      "Black tulips": 5
+    },
+    "hot_price": 1600,
+    "mat_sell": 400,
+    "ratio": 4
+  },
+  {
+    "name": "Dark tulip wreath",
+    "mats": {
+      "Black tulips": 10
+    },
+    "hot_price": 3200,
+    "mat_sell": 800,
+    "ratio": 4
+  },
+  {
+    "name": "Dark wooden-mosaic wall",
+    "mats": {
+      "Wood": 15
+    },
+    "hot_price": 3600,
+    "mat_sell": 900,
+    "ratio": 4
+  },
+  {
+    "name": "Decoy duck",
+    "mats": {
+      "Softwood": 4
+    },
+    "hot_price": 960,
+    "mat_sell": 240,
+    "ratio": 4
+  },
+  {
+    "name": "Deer decoration",
+    "mats": {
+      "Softwood": 8
+    },
+    "hot_price": 1920,
+    "mat_sell": 480,
+    "ratio": 4
+  },
+  {
+    "name": "Deer scare",
+    "mats": {
+      "Bamboo piece": 3,
+      "Stone": 8,
+      "Clump of weeds": 3
+    },
+    "hot_price": 3480,
+    "mat_sell": 870,
+    "ratio": 4
+  },
+  {
+    "name": "Destinations signpost",
+    "mats": {
+      "Hardwood": 4,
+      "Softwood": 8
+    },
+    "hot_price": 2880,
+    "mat_sell": 720,
+    "ratio": 4
+  },
+  {
+    "name": "Document stack",
+    "mats": {
+      "Document stack": 1
+    },
+    "hot_price": 800,
+    "mat_sell": 400,
+    "ratio": 2
+  },
+  {
+    "name": "Doghouse",
+    "mats": {
+      "Wood": 10,
+      "Hardwood": 7
+    },
+    "hot_price": 4080,
+    "mat_sell": 1020,
+    "ratio": 4
+  },
+  {
+    "name": "Drinking fountain",
+    "mats": {
+      "Stone": 8,
+      "Iron nugget": 2
+    },
+    "hot_price": 5400,
+    "mat_sell": 1350,
+    "ratio": 4
+  },
+  {
+    "name": "Earth-egg outfit",
+    "mats": {
+      "Earth egg": 3
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Earth-egg shell",
+    "mats": {
+      "Earth egg": 2
+    },
+    "hot_price": 1600,
+    "mat_sell": 400,
+    "ratio": 4
+  },
+  {
+    "name": "Earth-egg shoes",
+    "mats": {
+      "Earth egg": 2
+    },
+    "hot_price": 1600,
+    "mat_sell": 400,
+    "ratio": 4
+  },
+  {
+    "name": "Egg party dress",
+    "mats": {
+      "Earth egg": 3,
+      "Stone egg": 3,
+      "Leaf egg": 3,
+      "Wood egg": 3,
+      "Sky egg": 3,
+      "Water egg": 3
+    },
+    "hot_price": 14400,
+    "mat_sell": 3600,
+    "ratio": 4
+  },
+  {
+    "name": "Egg party hat",
+    "mats": {
+      "Earth egg": 2,
+      "Stone egg": 2,
+      "Leaf egg": 2,
+      "Wood egg": 2,
+      "Sky egg": 2,
+      "Water egg": 2
+    },
+    "hot_price": 9600,
+    "mat_sell": 2400,
+    "ratio": 4
+  },
+  {
+    "name": "Fancy lily wreath",
+    "mats": {
+      "Orange lilies": 3,
+      "Pink lilies": 3,
+      "Yellow lilies": 3
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Fancy mum wreath",
+    "mats": {
+      "Pink mums": 3,
+      "Purple mums": 3,
+      "Red mums": 3
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Fancy rose wreath",
+    "mats": {
+      "Orange roses": 3,
+      "Pink roses": 3,
+      "Yellow roses": 3
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Festive top set",
+    "mats": {
+      "Gold ornament": 2,
+      "Hardwood": 1
+    },
+    "hot_price": 640,
+    "mat_sell": 160,
+    "ratio": 4
+  },
+  {
+    "name": "Festive tree",
+    "mats": {
+      "Red ornament": 3,
+      "Blue ornament": 3,
+      "Gold ornament": 3,
+      "Wood": 5
+    },
+    "hot_price": 2800,
+    "mat_sell": 750,
+    "ratio": 3.7333333333333334
+  },
+  {
+    "name": "Firewood",
+    "mats": {
+      "Wood": 8
+    },
+    "hot_price": 1920,
+    "mat_sell": 480,
+    "ratio": 4
+  },
+  {
+    "name": "Fishing rod",
+    "mats": {
+      "Tree branch": 5,
+      "Iron nugget": 1
+    },
+    "hot_price": 1200,
+    "mat_sell": 400,
+    "ratio": 3
+  },
+  {
+    "name": "Flat garden rock",
+    "mats": {
+      "Stone": 20
+    },
+    "hot_price": 6000,
+    "mat_sell": 1500,
+    "ratio": 4
+  },
+  {
+    "name": "Flimsy axe",
+    "mats": {
+      "Tree branch": 5,
+      "Stone": 1
+    },
+    "hot_price": 400,
+    "mat_sell": 100,
+    "ratio": 4
+  },
+  {
+    "name": "Flimsy fishing rod",
+    "mats": {
+      "Tree branch": 5
+    },
+    "hot_price": 200,
+    "mat_sell": 25,
+    "ratio": 8
+  },
+  {
+    "name": "Flimsy net",
+    "mats": {
+      "Tree branch": 5
+    },
+    "hot_price": 200,
+    "mat_sell": 25,
+    "ratio": 8
+  },
+  {
+    "name": "Flimsy shovel",
+    "mats": {
+      "Hardwood": 5
+    },
+    "hot_price": 400,
+    "mat_sell": 300,
+    "ratio": 1.3333333333333333
+  },
+  {
+    "name": "Flimsy watering can",
+    "mats": {
+      "Softwood": 5
+    },
+    "hot_price": 400,
+    "mat_sell": 300,
+    "ratio": 1.3333333333333333
+  },
+  {
+    "name": "Floral swag",
+    "mats": {
+      "Clump of weeds": 10
+    },
+    "hot_price": 400,
+    "mat_sell": 100,
+    "ratio": 4
+  },
+  {
+    "name": "Flower stand",
+    "mats": {
+      "Red roses": 1,
+      "Pink roses": 2,
+      "Orange roses": 2,
+      "White lilies": 2,
+      "Yellow lilies": 2,
+      "Purple windflowers": 5
+    },
+    "hot_price": 5760,
+    "mat_sell": 1720,
+    "ratio": 3.3488372093023258
+  },
+  {
+    "name": "Flying saucer",
+    "mats": {
+      "Star fragment": 15,
+      "Iron nugget": 10
+    },
+    "hot_price": 30000,
+    "mat_sell": 7500,
+    "ratio": 4
+  },
+  {
+    "name": "Forest flooring",
+    "mats": {
+      "Rare mushroom": 1,
+      "Round mushroom": 2,
+      "Skinny mushroom": 2,
+      "Flat mushroom": 2,
+      "Clump of weeds": 10
+    },
+    "hot_price": 70000,
+    "mat_sell": 17500,
+    "ratio": 4
+  },
+  {
+    "name": "Forest wall",
+    "mats": {
+      "Elegant mushroom": 2,
+      "Round mushroom": 2,
+      "Skinny mushroom": 2,
+      "Flat mushroom": 2,
+      "Wood": 10
+    },
+    "hot_price": 88000,
+    "mat_sell": 22000,
+    "ratio": 4
+  },
+  {
+    "name": "Fossil doorplate",
+    "mats": {
+      "Fossil": 1,
+      "Stone": 2
+    },
+    "hot_price": 1000,
+    "mat_sell": 250,
+    "ratio": 4
+  },
+  {
+    "name": "Fountain",
+    "mats": {
+      "Stone": 28,
+      "Iron nugget": 10
+    },
+    "hot_price": 23400,
+    "mat_sell": 5850,
+    "ratio": 4
+  },
+  {
+    "name": "Frozen arch",
+    "mats": {
+      "Large snowflake": 1,
+      "Snowflake": 10
+    },
+    "hot_price": 18000,
+    "mat_sell": 1999,
+    "ratio": 9.004502251125563
+  },
+  {
+    "name": "Frozen bed",
+    "mats": {
+      "Large snowflake": 1,
+      "Snowflake": 10
+    },
+    "hot_price": 18000,
+    "mat_sell": 1999,
+    "ratio": 9.004502251125563
+  },
+  {
+    "name": "Frozen chair",
+    "mats": {
+      "Large snowflake": 1,
+      "Snowflake": 3
+    },
+    "hot_price": 12400,
+    "mat_sell": 599,
+    "ratio": 20.70116861435726
+  },
+  {
+    "name": "Frozen counter",
+    "mats": {
+      "Large snowflake": 1,
+      "Snowflake": 5
+    },
+    "hot_price": 14000,
+    "mat_sell": 999,
+    "ratio": 14.014014014014014
+  },
+  {
+    "name": "Frozen partition",
+    "mats": {
+      "Large snowflake": 1,
+      "Snowflake": 6
+    },
+    "hot_price": 14800,
+    "mat_sell": 1199,
+    "ratio": 12.343619683069225
+  },
+  {
+    "name": "Frozen pillar",
+    "mats": {
+      "Large snowflake": 1,
+      "Snowflake": 4
+    },
+    "hot_price": 12400,
+    "mat_sell": 799,
+    "ratio": 15.519399249061326
+  },
+  {
+    "name": "Frozen sculpture",
+    "mats": {
+      "Large snowflake": 1,
+      "Snowflake": 4
+    },
+    "hot_price": 13200,
+    "mat_sell": 799,
+    "ratio": 16.520650813516895
+  },
+  {
+    "name": "Frozen table",
+    "mats": {
+      "Large snowflake": 1,
+      "Snowflake": 8
+    },
+    "hot_price": 16400,
+    "mat_sell": 1599,
+    "ratio": 10.256410256410257
+  },
+  {
+    "name": "Frozen tree",
+    "mats": {
+      "Large snowflake": 1,
+      "Snowflake": 8
+    },
+    "hot_price": 16400,
+    "mat_sell": 1599,
+    "ratio": 10.256410256410257
+  },
+  {
+    "name": "Frozen-treat set",
+    "mats": {
+      "Large snowflake": 1,
+      "Snowflake": 1
+    },
+    "hot_price": 10800,
+    "mat_sell": 199,
+    "ratio": 54.2713567839196
+  },
+  {
+    "name": "Fruit basket",
+    "mats": {
+      "Apple": 1,
+      "Pear": 1,
+      "Cherry": 1,
+      "Orange": 1,
+      "Peach": 1
+    },
+    "hot_price": 2000,
+    "mat_sell": 2500,
+    "ratio": 0.8
+  },
+  {
+    "name": "Fruit wreath",
+    "mats": {
+      "Apple": 2,
+      "Pear": 1,
+      "Cherry": 3,
+      "Orange": 3,
+      "Peach": 1
+    },
+    "hot_price": 4000,
+    "mat_sell": 5000,
+    "ratio": 0.8
+  },
+  {
+    "name": "Frying pan",
+    "mats": {
+      "Iron nugget": 2
+    },
+    "hot_price": 3000,
+    "mat_sell": 750,
+    "ratio": 4
+  },
+  {
+    "name": "Galaxy flooring",
+    "mats": {
+      "Star fragment": 5,
+      "Large star fragment": 1
+    },
+    "hot_price": 15000,
+    "mat_sell": 3750,
+    "ratio": 4
+  },
+  {
+    "name": "Garbage-heap flooring",
+    "mats": {
+      "Empty can": 2,
+      "Boot": 2,
+      "Old tire": 2
+    },
+    "hot_price": 240,
+    "mat_sell": 60,
+    "ratio": 4
+  },
+  {
+    "name": "Garbage-heap wall",
+    "mats": {
+      "Empty can": 2,
+      "Boot": 2,
+      "Old tire": 2
+    },
+    "hot_price": 240,
+    "mat_sell": 60,
+    "ratio": 4
+  },
+  {
+    "name": "Garden bench",
+    "mats": {
+      "Wood": 12,
+      "Iron nugget": 4
+    },
+    "hot_price": 8880,
+    "mat_sell": 2220,
+    "ratio": 4
+  },
+  {
+    "name": "Garden rock",
+    "mats": {
+      "Stone": 15
+    },
+    "hot_price": 4500,
+    "mat_sell": 1125,
+    "ratio": 4
+  },
+  {
+    "name": "Garden wagon",
+    "mats": {
+      "White hyacinths": 3,
+      "Red cosmos": 3,
+      "Yellow roses": 3,
+      "Wood": 8,
+      "Iron nugget": 2
+    },
+    "hot_price": 6360,
+    "mat_sell": 1590,
+    "ratio": 4
+  },
+  {
+    "name": "Gemini closet",
+    "mats": {
+      "Star fragment": 3,
+      "Gemini fragment": 2,
+      "Gold nugget": 2,
+      "Stone": 6
+    },
+    "hot_price": 44400,
+    "mat_sell": 22200,
+    "ratio": 2
+  },
+  {
+    "name": "Giant teddy bear",
+    "mats": {
+      "Papa bear": 1,
+      "Mama bear": 1,
+      "Baby bear": 1
+    },
+    "hot_price": 12600,
+    "mat_sell": 3150,
+    "ratio": 4
+  },
+  {
+    "name": "Gold armor",
+    "mats": {
+      "Gold nugget": 8
+    },
+    "hot_price": 160000,
+    "mat_sell": 80000,
+    "ratio": 2
+  },
+  {
+    "name": "Gold bars",
+    "mats": {
+      "Gold nugget": 3
+    },
+    "hot_price": 60000,
+    "mat_sell": 30000,
+    "ratio": 2
+  },
+  {
+    "name": "Gold helmet",
+    "mats": {
+      "Gold nugget": 5
+    },
+    "hot_price": 100000,
+    "mat_sell": 50000,
+    "ratio": 2
+  },
+  {
+    "name": "Gold rose crown",
+    "mats": {
+      "Gold roses": 6
+    },
+    "hot_price": 24000,
+    "mat_sell": 6000,
+    "ratio": 4
+  },
+  {
+    "name": "Gold rose wreath",
+    "mats": {
+      "Gold roses": 10
+    },
+    "hot_price": 40000,
+    "mat_sell": 10000,
+    "ratio": 4
+  },
+  {
+    "name": "Gold-armor shoes",
+    "mats": {
+      "Gold nugget": 4
+    },
+    "hot_price": 80000,
+    "mat_sell": 40000,
+    "ratio": 2
+  },
+  {
+    "name": "Gold-screen wall",
+    "mats": {
+      "Gold nugget": 2,
+      "Screen wall": 1
+    },
+    "hot_price": 41500,
+    "mat_sell": 20750,
+    "ratio": 2
+  },
+  {
+    "name": "Golden arowana model",
+    "mats": {
+      "Gold nugget": 3
+    },
+    "hot_price": 60000,
+    "mat_sell": 30000,
+    "ratio": 2
+  },
+  {
+    "name": "Golden axe",
+    "mats": {
+      "Tree branch": 5,
+      "Stone": 1,
+      "Wood": 3,
+      "Iron nugget": 1,
+      "Gold nugget": 1
+    },
+    "hot_price": 21310,
+    "mat_sell": 10655,
+    "ratio": 2
+  },
+  {
+    "name": "Golden candlestick",
+    "mats": {
+      "Gold nugget": 2
+    },
+    "hot_price": 40000,
+    "mat_sell": 20000,
+    "ratio": 2
+  },
+  {
+    "name": "Golden casket",
+    "mats": {
+      "Gold nugget": 8
+    },
+    "hot_price": 160000,
+    "mat_sell": 80000,
+    "ratio": 2
+  },
+  {
+    "name": "Golden dishes",
+    "mats": {
+      "Gold nugget": 1
+    },
+    "hot_price": 20000,
+    "mat_sell": 10000,
+    "ratio": 2
+  },
+  {
+    "name": "Golden dung beetle",
+    "mats": {
+      "Gold nugget": 3
+    },
+    "hot_price": 60000,
+    "mat_sell": 30000,
+    "ratio": 2
+  },
+  {
+    "name": "Golden flooring",
+    "mats": {
+      "Gold nugget": 4
+    },
+    "hot_price": 80000,
+    "mat_sell": 40000,
+    "ratio": 2
+  },
+  {
+    "name": "Golden gears",
+    "mats": {
+      "Gold nugget": 1,
+      "Iron nugget": 3
+    },
+    "hot_price": 22250,
+    "mat_sell": 11125,
+    "ratio": 2
+  },
+  {
+    "name": "Golden net",
+    "mats": {
+      "Tree branch": 5,
+      "Iron nugget": 1,
+      "Gold nugget": 1
+    },
+    "hot_price": 20800,
+    "mat_sell": 10400,
+    "ratio": 2
+  },
+  {
+    "name": "Golden rod",
+    "mats": {
+      "Tree branch": 5,
+      "Iron nugget": 1,
+      "Gold nugget": 1
+    },
+    "hot_price": 20800,
+    "mat_sell": 10400,
+    "ratio": 2
+  },
+  {
+    "name": "Golden seat",
+    "mats": {
+      "Gold nugget": 5
+    },
+    "hot_price": 100000,
+    "mat_sell": 50000,
+    "ratio": 2
+  },
+  {
+    "name": "Golden shovel",
+    "mats": {
+      "Hardwood": 5,
+      "Iron nugget": 1,
+      "Gold nugget": 1
+    },
+    "hot_price": 21350,
+    "mat_sell": 10675,
+    "ratio": 2
+  },
+  {
+    "name": "Golden slingshot",
+    "mats": {
+      "Hardwood": 5,
+      "Gold nugget": 1
+    },
+    "hot_price": 20600,
+    "mat_sell": 10300,
+    "ratio": 2
+  },
+  {
+    "name": "Golden toilet",
+    "mats": {
+      "Gold nugget": 6
+    },
+    "hot_price": 120000,
+    "mat_sell": 60000,
+    "ratio": 2
+  },
+  {
+    "name": "Golden wall",
+    "mats": {
+      "Gold nugget": 4
+    },
+    "hot_price": 80000,
+    "mat_sell": 40000,
+    "ratio": 2
+  },
+  {
+    "name": "Golden wand",
+    "mats": {
+      "Gold nugget": 2,
+      "Star fragment": 3
+    },
+    "hot_price": 41500,
+    "mat_sell": 20750,
+    "ratio": 2
+  },
+  {
+    "name": "Golden watering can",
+    "mats": {
+      "Softwood": 5,
+      "Iron nugget": 1,
+      "Gold nugget": 1
+    },
+    "hot_price": 21350,
+    "mat_sell": 10675,
+    "ratio": 2
+  },
+  {
+    "name": "Gong",
+    "mats": {
+      "Iron nugget": 6,
+      "Wood": 5
+    },
+    "hot_price": 10200,
+    "mat_sell": 2550,
+    "ratio": 4
+  },
+  {
+    "name": "Grass skirt",
+    "mats": {
+      "Clump of weeds": 7
+    },
+    "hot_price": 280,
+    "mat_sell": 70,
+    "ratio": 4
+  },
+  {
+    "name": "Grass standee",
+    "mats": {
+      "Wood": 2,
+      "Softwood": 2
+    },
+    "hot_price": 960,
+    "mat_sell": 240,
+    "ratio": 4
+  },
+  {
+    "name": "Green grass skirt",
+    "mats": {
+      "Clump of weeds": 7
+    },
+    "hot_price": 280,
+    "mat_sell": 70,
+    "ratio": 4
+  },
+  {
+    "name": "Green-leaf pile",
+    "mats": {
+      "Young spring bamboo": 1,
+      "Clump of weeds": 10
+    },
+    "hot_price": 1200,
+    "mat_sell": 300,
+    "ratio": 4
+  },
+  {
+    "name": "Hanging terrarium",
+    "mats": {
+      "Clump of weeds": 10,
+      "Iron nugget": 4
+    },
+    "hot_price": 6480,
+    "mat_sell": 1600,
+    "ratio": 4.05
+  },
+  {
+    "name": "Hay bed",
+    "mats": {
+      "Clump of weeds": 20
+    },
+    "hot_price": 800,
+    "mat_sell": 200,
+    "ratio": 4
+  },
+  {
+    "name": "Hearth",
+    "mats": {
+      "Bamboo piece": 2,
+      "Iron nugget": 5,
+      "Clay": 4,
+      "Hardwood": 5
+    },
+    "hot_price": 10940,
+    "mat_sell": 2735,
+    "ratio": 4
+  },
+  {
+    "name": "Hedge standee",
+    "mats": {
+      "Wood": 2,
+      "Softwood": 3
+    },
+    "hot_price": 1200,
+    "mat_sell": 300,
+    "ratio": 4
+  },
+  {
+    "name": "Holiday candle",
+    "mats": {
+      "Red ornament": 5,
+      "Clump of weeds": 5
+    },
+    "hot_price": 1200,
+    "mat_sell": 300,
+    "ratio": 4
+  },
+  {
+    "name": "Honeycomb flooring",
+    "mats": {
+      "Wasp nest": 5
+    },
+    "hot_price": 6000,
+    "mat_sell": 1500,
+    "ratio": 4
+  },
+  {
+    "name": "Honeycomb wall",
+    "mats": {
+      "Wasp nest": 6
+    },
+    "hot_price": 7200,
+    "mat_sell": 1800,
+    "ratio": 4
+  },
+  {
+    "name": "Hyacinth crown",
+    "mats": {
+      "Red hyacinths": 4,
+      "Yellow hyacinths": 2,
+      "White hyacinths": 2
+    },
+    "hot_price": 1280,
+    "mat_sell": 320,
+    "ratio": 4
+  },
+  {
+    "name": "Hyacinth lamp",
+    "mats": {
+      "Purple hyacinths": 5,
+      "Clay": 3
+    },
+    "hot_price": 6000,
+    "mat_sell": 1500,
+    "ratio": 4
+  },
+  {
+    "name": "Hyacinth wand",
+    "mats": {
+      "Pink hyacinths": 1,
+      "Star fragment": 3
+    },
+    "hot_price": 3320,
+    "mat_sell": 830,
+    "ratio": 4
+  },
+  {
+    "name": "Hyacinth wreath",
+    "mats": {
+      "White hyacinths": 3,
+      "Red hyacinths": 3,
+      "Yellow hyacinths": 3
+    },
+    "hot_price": 1440,
+    "mat_sell": 360,
+    "ratio": 4
+  },
+  {
+    "name": "Ice flooring",
+    "mats": {
+      "Large snowflake": 1,
+      "Snowflake": 8
+    },
+    "hot_price": 16400,
+    "mat_sell": 1599,
+    "ratio": 10.256410256410257
+  },
+  {
+    "name": "Ice wall",
+    "mats": {
+      "Large snowflake": 1,
+      "Snowflake": 8
+    },
+    "hot_price": 16400,
+    "mat_sell": 1599,
+    "ratio": 10.256410256410257
+  },
+  {
+    "name": "Ice wand",
+    "mats": {
+      "Large snowflake": 1,
+      "Star fragment": 3
+    },
+    "hot_price": 13000,
+    "mat_sell": 749,
+    "ratio": 17.356475300400533
+  },
+  {
+    "name": "Iceberg flooring",
+    "mats": {
+      "Snowflake": 10
+    },
+    "hot_price": 8000,
+    "mat_sell": 2000,
+    "ratio": 4
+  },
+  {
+    "name": "Iceberg wall",
+    "mats": {
+      "Large snowflake": 1,
+      "Snowflake": 8
+    },
+    "hot_price": 8000,
+    "mat_sell": 1599,
+    "ratio": 5.003126954346467
+  },
+  {
+    "name": "Illuminated present",
+    "mats": {
+      "Red ornament": 3,
+      "Gold ornament": 4,
+      "Iron nugget": 3
+    },
+    "hot_price": 5900,
+    "mat_sell": 1475,
+    "ratio": 4
+  },
+  {
+    "name": "Illuminated reindeer",
+    "mats": {
+      "Gold ornament": 6,
+      "Iron nugget": 5
+    },
+    "hot_price": 8700,
+    "mat_sell": 2175,
+    "ratio": 4
+  },
+  {
+    "name": "Illuminated snowflakes",
+    "mats": {
+      "Blue ornament": 9,
+      "Gold nugget": 3
+    },
+    "hot_price": 6300,
+    "mat_sell": 30450,
+    "ratio": 0.20689655172413793
+  },
+  {
+    "name": "Illuminated tree",
+    "mats": {
+      "Red ornament": 3,
+      "Gold ornament": 4,
+      "Iron nugget": 3
+    },
+    "hot_price": 13400,
+    "mat_sell": 1475,
+    "ratio": 9.084745762711865
+  },
+  {
+    "name": "Imperial fence",
+    "mats": {
+      "Wood": 6,
+      "Softwood": 4
+    },
+    "hot_price": -2,
+    "mat_sell": 600,
+    "ratio": -0.0033333333333333335
+  },
+  {
+    "name": "Infused-water dispenser",
+    "mats": {
+      "Apple": 2,
+      "Pear": 2,
+      "Cherry": 2,
+      "Orange": 2,
+      "Peach": 2,
+      "Coconut": 2
+    },
+    "hot_price": 6000,
+    "mat_sell": 5500,
+    "ratio": 1.0909090909090908
+  },
+  {
+    "name": "Iron armor",
+    "mats": {
+      "Iron nugget": 8
+    },
+    "hot_price": 12000,
+    "mat_sell": 3000,
+    "ratio": 4
+  },
+  {
+    "name": "Iron closet",
+    "mats": {
+      "Iron nugget": 12
+    },
+    "hot_price": 18000,
+    "mat_sell": 4500,
+    "ratio": 4
+  },
+  {
+    "name": "Iron doorplate",
+    "mats": {
+      "Iron nugget": 2
+    },
+    "hot_price": 3000,
+    "mat_sell": 750,
+    "ratio": 4
+  },
+  {
+    "name": "Iron fence",
+    "mats": {
+      "Iron nugget": 6
+    },
+    "hot_price": -2,
+    "mat_sell": 2250,
+    "ratio": -0.0008888888888888889
+  },
+  {
+    "name": "Iron frame",
+    "mats": {
+      "Iron nugget": 20
+    },
+    "hot_price": 30000,
+    "mat_sell": 7500,
+    "ratio": 4
+  },
+  {
+    "name": "Iron garden bench",
+    "mats": {
+      "Iron nugget": 4
+    },
+    "hot_price": 12000,
+    "mat_sell": 1500,
+    "ratio": 8
+  },
+  {
+    "name": "Iron garden chair",
+    "mats": {
+      "Iron nugget": 3
+    },
+    "hot_price": 4500,
+    "mat_sell": 1125,
+    "ratio": 4
+  },
+  {
+    "name": "Iron garden table",
+    "mats": {
+      "Iron nugget": 5
+    },
+    "hot_price": 7500,
+    "mat_sell": 1875,
+    "ratio": 4
+  },
+  {
+    "name": "Iron hanger stand",
+    "mats": {
+      "Iron nugget": 3
+    },
+    "hot_price": 4500,
+    "mat_sell": 1125,
+    "ratio": 4
+  },
+  {
+    "name": "Iron shelf",
+    "mats": {
+      "Iron nugget": 14
+    },
+    "hot_price": 21000,
+    "mat_sell": 5250,
+    "ratio": 4
+  },
+  {
+    "name": "Iron wall lamp",
+    "mats": {
+      "Iron nugget": 4,
+      "Clay": 2
+    },
+    "hot_price": 6800,
+    "mat_sell": 1700,
+    "ratio": 4
+  },
+  {
+    "name": "Iron wall rack",
+    "mats": {
+      "Iron nugget": 3,
+      "Clay": 1
+    },
+    "hot_price": 4900,
+    "mat_sell": 1225,
+    "ratio": 4
+  },
+  {
+    "name": "Iron wand",
+    "mats": {
+      "Iron nugget": 3,
+      "Star fragment": 3
+    },
+    "hot_price": 7500,
+    "mat_sell": 1875,
+    "ratio": 4
+  },
+  {
+    "name": "Iron worktable",
+    "mats": {
+      "Iron nugget": 10
+    },
+    "hot_price": 15000,
+    "mat_sell": 3750,
+    "ratio": 4
+  },
+  {
+    "name": "Iron-and-stone fence",
+    "mats": {
+      "Stone": 6,
+      "Iron nugget": 3
+    },
+    "hot_price": -2,
+    "mat_sell": 1575,
+    "ratio": -0.0012698412698412698
+  },
+  {
+    "name": "Ironwood DIY workbench",
+    "mats": {
+      "Wood": 15,
+      "Iron nugget": 8,
+      "Hardwood": 3,
+      "Softwood": 3
+    },
+    "hot_price": 17040,
+    "mat_sell": 4260,
+    "ratio": 4
+  },
+  {
+    "name": "Ironwood bed",
+    "mats": {
+      "Wood": 20,
+      "Iron nugget": 10
+    },
+    "hot_price": 19800,
+    "mat_sell": 4950,
+    "ratio": 4
+  },
+  {
+    "name": "Ironwood cart",
+    "mats": {
+      "Wood": 6,
+      "Iron nugget": 4
+    },
+    "hot_price": 7440,
+    "mat_sell": 1860,
+    "ratio": 4
+  },
+  {
+    "name": "Ironwood chair",
+    "mats": {
+      "Wood": 3,
+      "Iron nugget": 2
+    },
+    "hot_price": 3720,
+    "mat_sell": 930,
+    "ratio": 4
+  },
+  {
+    "name": "Ironwood clock",
+    "mats": {
+      "Wood": 2,
+      "Iron nugget": 2
+    },
+    "hot_price": 3480,
+    "mat_sell": 870,
+    "ratio": 4
+  },
+  {
+    "name": "Ironwood cupboard",
+    "mats": {
+      "Wood": 19,
+      "Iron nugget": 10
+    },
+    "hot_price": 19560,
+    "mat_sell": 4890,
+    "ratio": 4
+  },
+  {
+    "name": "Ironwood dresser",
+    "mats": {
+      "Wood": 7,
+      "Iron nugget": 4
+    },
+    "hot_price": 7680,
+    "mat_sell": 1920,
+    "ratio": 4
+  },
+  {
+    "name": "Ironwood kitchenette",
+    "mats": {
+      "Wood": 11,
+      "Iron nugget": 8,
+      "Hardwood": 2
+    },
+    "hot_price": 15120,
+    "mat_sell": 3780,
+    "ratio": 4
+  },
+  {
+    "name": "Ironwood low table",
+    "mats": {
+      "Wood": 6,
+      "Iron nugget": 4
+    },
+    "hot_price": 7440,
+    "mat_sell": 1860,
+    "ratio": 4
+  },
+  {
+    "name": "Ironwood table",
+    "mats": {
+      "Wood": 12,
+      "Iron nugget": 6
+    },
+    "hot_price": 11880,
+    "mat_sell": 2970,
+    "ratio": 4
+  },
+  {
+    "name": "Jail bars",
+    "mats": {
+      "Iron nugget": 5
+    },
+    "hot_price": 7500,
+    "mat_sell": 1875,
+    "ratio": 4
+  },
+  {
+    "name": "Jingle wall",
+    "mats": {
+      "Red ornament": 5,
+      "Blue ornament": 5,
+      "Gold ornament": 5,
+      "Clay": 5
+    },
+    "hot_price": 5000,
+    "mat_sell": 1250,
+    "ratio": 4
+  },
+  {
+    "name": "Juicy-apple TV",
+    "mats": {
+      "Apple": 10,
+      "Iron nugget": 2
+    },
+    "hot_price": 7000,
+    "mat_sell": 5750,
+    "ratio": 1.2173913043478262
+  },
+  {
+    "name": "Jungle flooring",
+    "mats": {
+      "Clump of weeds": 10,
+      "Clay": 10
+    },
+    "hot_price": 4400,
+    "mat_sell": 1100,
+    "ratio": 4
+  },
+  {
+    "name": "Jungle wall",
+    "mats": {
+      "Clump of weeds": 15,
+      "Wood": 3,
+      "Hardwood": 3,
+      "Softwood": 3
+    },
+    "hot_price": 2760,
+    "mat_sell": 690,
+    "ratio": 4
+  },
+  {
+    "name": "Kettle bathtub",
+    "mats": {
+      "Iron nugget": 8,
+      "Wood": 2,
+      "Tree branch": 3
+    },
+    "hot_price": 12540,
+    "mat_sell": 3135,
+    "ratio": 4
+  },
+  {
+    "name": "Kettlebell",
+    "mats": {
+      "Iron nugget": 5
+    },
+    "hot_price": 7500,
+    "mat_sell": 1875,
+    "ratio": 4
+  },
+  {
+    "name": "Key holder",
+    "mats": {
+      "Wood": 3,
+      "Iron nugget": 1
+    },
+    "hot_price": 2220,
+    "mat_sell": 555,
+    "ratio": 4
+  },
+  {
+    "name": "Knight's helmet",
+    "mats": {
+      "Iron nugget": 5
+    },
+    "hot_price": 7500,
+    "mat_sell": 1875,
+    "ratio": 4
+  },
+  {
+    "name": "Knitted-grass backpack",
+    "mats": {
+      "Clump of weeds": 20
+    },
+    "hot_price": 800,
+    "mat_sell": 200,
+    "ratio": 4
+  },
+  {
+    "name": "Ladder",
+    "mats": {
+      "Wood": 4,
+      "Hardwood": 4,
+      "Softwood": 4
+    },
+    "hot_price": 2880,
+    "mat_sell": 720,
+    "ratio": 4
+  },
+  {
+    "name": "Large cardboard boxes",
+    "mats": {
+      "Cardboard box": 5
+    },
+    "hot_price": 600,
+    "mat_sell": 150,
+    "ratio": 4
+  },
+  {
+    "name": "Lattice fence",
+    "mats": {
+      "Softwood": 8
+    },
+    "hot_price": -2,
+    "mat_sell": 480,
+    "ratio": -0.004166666666666667
+  },
+  {
+    "name": "Leaf",
+    "mats": {
+      "Clump of weeds": 5
+    },
+    "hot_price": 200,
+    "mat_sell": 50,
+    "ratio": 4
+  },
+  {
+    "name": "Leaf campfire",
+    "mats": {
+      "Pine cone": 3,
+      "Clump of weeds": 5,
+      "Tree branch": 3
+    },
+    "hot_price": 2660,
+    "mat_sell": 665,
+    "ratio": 4
+  },
+  {
+    "name": "Leaf mask",
+    "mats": {
+      "Clump of weeds": 10
+    },
+    "hot_price": 400,
+    "mat_sell": 100,
+    "ratio": 4
+  },
+  {
+    "name": "Leaf stool",
+    "mats": {
+      "Maple leaf": 3,
+      "Wood": 3
+    },
+    "hot_price": 3120,
+    "mat_sell": 177,
+    "ratio": 17.627118644067796
+  },
+  {
+    "name": "Leaf umbrella",
+    "mats": {
+      "Clump of weeds": 15
+    },
+    "hot_price": 600,
+    "mat_sell": 150,
+    "ratio": 4
+  },
+  {
+    "name": "Leaf-egg outfit",
+    "mats": {
+      "Leaf egg": 3
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Leaf-egg shell",
+    "mats": {
+      "Leaf egg": 2
+    },
+    "hot_price": 1600,
+    "mat_sell": 400,
+    "ratio": 4
+  },
+  {
+    "name": "Leaf-egg shoes",
+    "mats": {
+      "Leaf egg": 2
+    },
+    "hot_price": 1600,
+    "mat_sell": 400,
+    "ratio": 4
+  },
+  {
+    "name": "Leo sculpture",
+    "mats": {
+      "Star fragment": 3,
+      "Leo fragment": 2,
+      "Gold nugget": 2,
+      "Stone": 3
+    },
+    "hot_price": 43950,
+    "mat_sell": 21975,
+    "ratio": 2
+  },
+  {
+    "name": "Libra scale",
+    "mats": {
+      "Star fragment": 3,
+      "Libra fragment": 2,
+      "Gold nugget": 2
+    },
+    "hot_price": 43500,
+    "mat_sell": 21750,
+    "ratio": 2
+  },
+  {
+    "name": "Light bamboo rug",
+    "mats": {
+      "Young spring bamboo": 6
+    },
+    "hot_price": 4800,
+    "mat_sell": 1200,
+    "ratio": 4
+  },
+  {
+    "name": "Lily crown",
+    "mats": {
+      "Red lilies": 2,
+      "Yellow lilies": 2,
+      "White lilies": 2
+    },
+    "hot_price": 960,
+    "mat_sell": 240,
+    "ratio": 4
+  },
+  {
+    "name": "Lily record player",
+    "mats": {
+      "White lilies": 5,
+      "Iron nugget": 3,
+      "Wood": 3
+    },
+    "hot_price": 6020,
+    "mat_sell": 1505,
+    "ratio": 4
+  },
+  {
+    "name": "Lily wand",
+    "mats": {
+      "White lilies": 1,
+      "Star fragment": 3
+    },
+    "hot_price": 3160,
+    "mat_sell": 790,
+    "ratio": 4
+  },
+  {
+    "name": "Lily wreath",
+    "mats": {
+      "White lilies": 3,
+      "Red lilies": 3,
+      "Yellow lilies": 3
+    },
+    "hot_price": 1440,
+    "mat_sell": 360,
+    "ratio": 4
+  },
+  {
+    "name": "Log bed",
+    "mats": {
+      "Hardwood": 30
+    },
+    "hot_price": 7200,
+    "mat_sell": 1800,
+    "ratio": 4
+  },
+  {
+    "name": "Log bench",
+    "mats": {
+      "Hardwood": 5
+    },
+    "hot_price": 1200,
+    "mat_sell": 300,
+    "ratio": 4
+  },
+  {
+    "name": "Log decorative shelves",
+    "mats": {
+      "Hardwood": 8
+    },
+    "hot_price": 3120,
+    "mat_sell": 480,
+    "ratio": 6.5
+  },
+  {
+    "name": "Log dining table",
+    "mats": {
+      "Hardwood": 15
+    },
+    "hot_price": 3600,
+    "mat_sell": 900,
+    "ratio": 4
+  },
+  {
+    "name": "Log extra-long sofa",
+    "mats": {
+      "Hardwood": 8
+    },
+    "hot_price": 3840,
+    "mat_sell": 480,
+    "ratio": 8
+  },
+  {
+    "name": "Log garden lounge",
+    "mats": {
+      "Hardwood": 12
+    },
+    "hot_price": 2880,
+    "mat_sell": 720,
+    "ratio": 4
+  },
+  {
+    "name": "Log pack",
+    "mats": {
+      "Wood": 3,
+      "Hardwood": 5
+    },
+    "hot_price": 1920,
+    "mat_sell": 480,
+    "ratio": 4
+  },
+  {
+    "name": "Log round table",
+    "mats": {
+      "Hardwood": 15
+    },
+    "hot_price": 3600,
+    "mat_sell": 900,
+    "ratio": 4
+  },
+  {
+    "name": "Log sofa",
+    "mats": {
+      "Hardwood": 8
+    },
+    "hot_price": 1920,
+    "mat_sell": 480,
+    "ratio": 4
+  },
+  {
+    "name": "Log stakes",
+    "mats": {
+      "Wood": 3
+    },
+    "hot_price": 720,
+    "mat_sell": 180,
+    "ratio": 4
+  },
+  {
+    "name": "Log stool",
+    "mats": {
+      "Wood": 4
+    },
+    "hot_price": 960,
+    "mat_sell": 240,
+    "ratio": 4
+  },
+  {
+    "name": "Log wall-mounted clock",
+    "mats": {
+      "Hardwood": 2,
+      "Iron nugget": 1
+    },
+    "hot_price": 1980,
+    "mat_sell": 495,
+    "ratio": 4
+  },
+  {
+    "name": "Lovely cosmos crown",
+    "mats": {
+      "Pink cosmos": 3,
+      "Orange cosmos": 3
+    },
+    "hot_price": 2240,
+    "mat_sell": 480,
+    "ratio": 4.666666666666667
+  },
+  {
+    "name": "Lucky gold cat",
+    "mats": {
+      "Gold nugget": 2,
+      "Lucky cat": 1
+    },
+    "hot_price": 43350,
+    "mat_sell": 21675,
+    "ratio": 2
+  },
+  {
+    "name": "Lunar lander",
+    "mats": {
+      "Star fragment": 10,
+      "Iron nugget": 15
+    },
+    "hot_price": 32500,
+    "mat_sell": 8125,
+    "ratio": 4
+  },
+  {
+    "name": "Lunar rover",
+    "mats": {
+      "Star fragment": 10,
+      "Iron nugget": 10,
+      "Old tire": 4
+    },
+    "hot_price": 25160,
+    "mat_sell": 6290,
+    "ratio": 4
+  },
+  {
+    "name": "Lunar surface",
+    "mats": {
+      "Star fragment": 5,
+      "Large star fragment": 1
+    },
+    "hot_price": 15000,
+    "mat_sell": 3750,
+    "ratio": 4
+  },
+  {
+    "name": "Magazine rack",
+    "mats": {
+      "Magazine": 2,
+      "Wood": 4
+    },
+    "hot_price": 1380,
+    "mat_sell": 344,
+    "ratio": 4.011627906976744
+  },
+  {
+    "name": "Manga-library wall",
+    "mats": {
+      "Magazine": 10
+    },
+    "hot_price": 2100,
+    "mat_sell": 520,
+    "ratio": 4.038461538461538
+  },
+  {
+    "name": "Manhole cover",
+    "mats": {
+      "Iron nugget": 3
+    },
+    "hot_price": 4500,
+    "mat_sell": 1125,
+    "ratio": 4
+  },
+  {
+    "name": "Maple-leaf pochette",
+    "mats": {
+      "Maple leaf": 6
+    },
+    "hot_price": 4800,
+    "mat_sell": -6,
+    "ratio": -800
+  },
+  {
+    "name": "Maple-leaf pond stone",
+    "mats": {
+      "Stone": 10,
+      "Maple leaf": 3
+    },
+    "hot_price": 5400,
+    "mat_sell": 747,
+    "ratio": 7.228915662650603
+  },
+  {
+    "name": "Maple-leaf umbrella",
+    "mats": {
+      "Maple leaf": 7
+    },
+    "hot_price": 5600,
+    "mat_sell": -7,
+    "ratio": -800
+  },
+  {
+    "name": "Matryoshka",
+    "mats": {
+      "Softwood": 5
+    },
+    "hot_price": 1200,
+    "mat_sell": 300,
+    "ratio": 4
+  },
+  {
+    "name": "Medium cardboard boxes",
+    "mats": {
+      "Cardboard box": 4
+    },
+    "hot_price": 480,
+    "mat_sell": 120,
+    "ratio": 4
+  },
+  {
+    "name": "Mini DIY workbench",
+    "mats": {
+      "Wood": 3,
+      "Hardwood": 3,
+      "Softwood": 3,
+      "Iron nugget": 2
+    },
+    "hot_price": 5160,
+    "mat_sell": 1290,
+    "ratio": 4
+  },
+  {
+    "name": "Modeling clay",
+    "mats": {
+      "Clay": 2
+    },
+    "hot_price": 800,
+    "mat_sell": 200,
+    "ratio": 4
+  },
+  {
+    "name": "Modern wood wall",
+    "mats": {
+      "Wood": 5,
+      "Softwood": 5,
+      "Hardwood": 5
+    },
+    "hot_price": 3600,
+    "mat_sell": 900,
+    "ratio": 4
+  },
+  {
+    "name": "Money flooring",
+    "mats": {
+      "Bells": 50000
+    },
+    "hot_price": 50000,
+    "mat_sell": 50000,
+    "ratio": 1
+  },
+  {
+    "name": "Moon",
+    "mats": {
+      "Star fragment": 15,
+      "Large star fragment": 1
+    },
+    "hot_price": 25000,
+    "mat_sell": 6250,
+    "ratio": 4
+  },
+  {
+    "name": "Mossy garden rock",
+    "mats": {
+      "Stone": 15,
+      "Clump of weeds": 15
+    },
+    "hot_price": 5100,
+    "mat_sell": 1275,
+    "ratio": 4
+  },
+  {
+    "name": "Mountain standee",
+    "mats": {
+      "Wood": 4,
+      "Softwood": 5
+    },
+    "hot_price": 2160,
+    "mat_sell": 540,
+    "ratio": 4
+  },
+  {
+    "name": "Mum crown",
+    "mats": {
+      "Red mums": 2,
+      "Yellow mums": 2,
+      "White mums": 2
+    },
+    "hot_price": 960,
+    "mat_sell": 240,
+    "ratio": 4
+  },
+  {
+    "name": "Mum cushion",
+    "mats": {
+      "Yellow mums": 3,
+      "Clump of weeds": 10
+    },
+    "hot_price": 880,
+    "mat_sell": 220,
+    "ratio": 4
+  },
+  {
+    "name": "Mum wreath",
+    "mats": {
+      "White mums": 3,
+      "Yellow mums": 3,
+      "Red mums": 3
+    },
+    "hot_price": 1440,
+    "mat_sell": 360,
+    "ratio": 4
+  },
+  {
+    "name": "Mums wand",
+    "mats": {
+      "Yellow mums": 1
+    },
+    "hot_price": 3160,
+    "mat_sell": 40,
+    "ratio": 79
+  },
+  {
+    "name": "Mush lamp",
+    "mats": {
+      "Skinny mushroom": 1,
+      "Clay": 5
+    },
+    "hot_price": 3200,
+    "mat_sell": 800,
+    "ratio": 4
+  },
+  {
+    "name": "Mush log",
+    "mats": {
+      "Skinny mushroom": 2,
+      "Wood": 4
+    },
+    "hot_price": 3360,
+    "mat_sell": 840,
+    "ratio": 4
+  },
+  {
+    "name": "Mush low stool",
+    "mats": {
+      "Round mushroom": 2
+    },
+    "hot_price": 1600,
+    "mat_sell": 400,
+    "ratio": 4
+  },
+  {
+    "name": "Mush parasol",
+    "mats": {
+      "Flat mushroom": 3
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Mush partition",
+    "mats": {
+      "Skinny mushroom": 3
+    },
+    "hot_price": 3600,
+    "mat_sell": 900,
+    "ratio": 4
+  },
+  {
+    "name": "Mush table",
+    "mats": {
+      "Flat mushroom": 2,
+      "Wood": 6
+    },
+    "hot_price": 3040,
+    "mat_sell": 760,
+    "ratio": 4
+  },
+  {
+    "name": "Mush umbrella",
+    "mats": {
+      "Flat mushroom": 3
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Mush wall",
+    "mats": {
+      "Elegant mushroom": 1,
+      "Round mushroom": 1,
+      "Skinny mushroom": 1,
+      "Flat mushroom": 1
+    },
+    "hot_price": 42800,
+    "mat_sell": 10700,
+    "ratio": 4
+  },
+  {
+    "name": "Mushroom wand",
+    "mats": {
+      "Skinny mushroom": 3,
+      "Star fragment": 3
+    },
+    "hot_price": 6600,
+    "mat_sell": 1650,
+    "ratio": 4
+  },
+  {
+    "name": "Mushroom wreath",
+    "mats": {
+      "Tree branch": 10,
+      "Round mushroom": 1,
+      "Skinny mushroom": 1,
+      "Flat mushroom": 1
+    },
+    "hot_price": 3000,
+    "mat_sell": 750,
+    "ratio": 4
+  },
+  {
+    "name": "Music stand",
+    "mats": {
+      "Hardwood": 8
+    },
+    "hot_price": 1920,
+    "mat_sell": 480,
+    "ratio": 4
+  },
+  {
+    "name": "Natural garden chair",
+    "mats": {
+      "Hardwood": 6,
+      "Iron nugget": 2
+    },
+    "hot_price": 4440,
+    "mat_sell": 1110,
+    "ratio": 4
+  },
+  {
+    "name": "Natural garden table",
+    "mats": {
+      "Hardwood": 9,
+      "Iron nugget": 3
+    },
+    "hot_price": 6660,
+    "mat_sell": 1665,
+    "ratio": 4
+  },
+  {
+    "name": "Natural mum wreath",
+    "mats": {
+      "Green mums": 10
+    },
+    "hot_price": 9600,
+    "mat_sell": 2400,
+    "ratio": 4
+  },
+  {
+    "name": "Natural square table",
+    "mats": {
+      "Hardwood": 4,
+      "Iron nugget": 2
+    },
+    "hot_price": 3960,
+    "mat_sell": 990,
+    "ratio": 4
+  },
+  {
+    "name": "Net",
+    "mats": {
+      "Tree branch": 5,
+      "Iron nugget": 1
+    },
+    "hot_price": 1200,
+    "mat_sell": 400,
+    "ratio": 3
+  },
+  {
+    "name": "Nova light",
+    "mats": {
+      "Star fragment": 5
+    },
+    "hot_price": 5000,
+    "mat_sell": 1250,
+    "ratio": 4
+  },
+  {
+    "name": "Ocarina",
+    "mats": {
+      "Clay": 5
+    },
+    "hot_price": 2000,
+    "mat_sell": 500,
+    "ratio": 4
+  },
+  {
+    "name": "Oil-barrel bathtub",
+    "mats": {
+      "Oil barrel": 1,
+      "Tree branch": 3,
+      "Stone": 2
+    },
+    "hot_price": 1310,
+    "mat_sell": 327,
+    "ratio": 4.00611620795107
+  },
+  {
+    "name": "Old-fashioned washtub",
+    "mats": {
+      "Softwood": 3
+    },
+    "hot_price": 720,
+    "mat_sell": 180,
+    "ratio": 4
+  },
+  {
+    "name": "Orange dress",
+    "mats": {
+      "Orange": 8
+    },
+    "hot_price": 3200,
+    "mat_sell": 4000,
+    "ratio": 0.8
+  },
+  {
+    "name": "Orange end table",
+    "mats": {
+      "Orange": 10,
+      "Wood": 4
+    },
+    "hot_price": 4960,
+    "mat_sell": 5240,
+    "ratio": 0.9465648854961832
+  },
+  {
+    "name": "Orange hat",
+    "mats": {
+      "Orange": 5
+    },
+    "hot_price": 2000,
+    "mat_sell": 2500,
+    "ratio": 0.8
+  },
+  {
+    "name": "Orange rug",
+    "mats": {
+      "Orange": 6
+    },
+    "hot_price": 2400,
+    "mat_sell": 3000,
+    "ratio": 0.8
+  },
+  {
+    "name": "Orange umbrella",
+    "mats": {
+      "Orange": 7
+    },
+    "hot_price": 2800,
+    "mat_sell": 3500,
+    "ratio": 0.8
+  },
+  {
+    "name": "Orange wall",
+    "mats": {
+      "Orange": 20
+    },
+    "hot_price": 8000,
+    "mat_sell": 10000,
+    "ratio": 0.8
+  },
+  {
+    "name": "Orange wall-mounted clock",
+    "mats": {
+      "Orange": 10,
+      "Wood": 2
+    },
+    "hot_price": 4480,
+    "mat_sell": 5120,
+    "ratio": 0.875
+  },
+  {
+    "name": "Ornament mobile",
+    "mats": {
+      "Red ornament": 1,
+      "Blue ornament": 1,
+      "Gold ornament": 1,
+      "Tree branch": 4
+    },
+    "hot_price": 680,
+    "mat_sell": 170,
+    "ratio": 4
+  },
+  {
+    "name": "Ornament wreath",
+    "mats": {
+      "Blue ornament": 6,
+      "Gold ornament": 2
+    },
+    "hot_price": 1600,
+    "mat_sell": 400,
+    "ratio": 4
+  },
+  {
+    "name": "Outdoor bath",
+    "mats": {
+      "Stone": 20,
+      "Hardwood": 5,
+      "Iron nugget": 1
+    },
+    "hot_price": 8700,
+    "mat_sell": 2175,
+    "ratio": 4
+  },
+  {
+    "name": "Outdoor picnic set",
+    "mats": {
+      "Cherry": 10
+    },
+    "hot_price": 8000,
+    "mat_sell": 5000,
+    "ratio": 1.6
+  },
+  {
+    "name": "Palm-tree lamp",
+    "mats": {
+      "Coconut": 4,
+      "Wood": 4,
+      "Clay": 4
+    },
+    "hot_price": 6560,
+    "mat_sell": 1640,
+    "ratio": 4
+  },
+  {
+    "name": "Pan flute",
+    "mats": {
+      "Young spring bamboo": 7
+    },
+    "hot_price": 5600,
+    "mat_sell": 1400,
+    "ratio": 4
+  },
+  {
+    "name": "Pansy crown",
+    "mats": {
+      "Red pansies": 2,
+      "Yellow pansies": 2,
+      "White pansies": 2
+    },
+    "hot_price": 960,
+    "mat_sell": 240,
+    "ratio": 4
+  },
+  {
+    "name": "Pansy table",
+    "mats": {
+      "Yellow pansies": 5,
+      "Hardwood": 3
+    },
+    "hot_price": 1520,
+    "mat_sell": 380,
+    "ratio": 4
+  },
+  {
+    "name": "Pansy wand",
+    "mats": {
+      "Yellow pansies": 1,
+      "Star fragment": 3
+    },
+    "hot_price": 3160,
+    "mat_sell": 790,
+    "ratio": 4
+  },
+  {
+    "name": "Pansy wreath",
+    "mats": {
+      "Yellow pansies": 3,
+      "White pansies": 3,
+      "Red pansies": 3
+    },
+    "hot_price": 1440,
+    "mat_sell": 360,
+    "ratio": 4
+  },
+  {
+    "name": "Paw-print doorplate",
+    "mats": {
+      "Wood": 3
+    },
+    "hot_price": 720,
+    "mat_sell": 180,
+    "ratio": 4
+  },
+  {
+    "name": "Peach chair",
+    "mats": {
+      "Peach": 10,
+      "Wood": 5
+    },
+    "hot_price": 5200,
+    "mat_sell": 5300,
+    "ratio": 0.9811320754716981
+  },
+  {
+    "name": "Peach dress",
+    "mats": {
+      "Peach": 8
+    },
+    "hot_price": 3200,
+    "mat_sell": 4000,
+    "ratio": 0.8
+  },
+  {
+    "name": "Peach hat",
+    "mats": {
+      "Peach": 5
+    },
+    "hot_price": 2000,
+    "mat_sell": 2500,
+    "ratio": 0.8
+  },
+  {
+    "name": "Peach rug",
+    "mats": {
+      "Peach": 6
+    },
+    "hot_price": 2400,
+    "mat_sell": 3000,
+    "ratio": 0.8
+  },
+  {
+    "name": "Peach surprise box",
+    "mats": {
+      "Peach": 10,
+      "Softwood": 4
+    },
+    "hot_price": 4960,
+    "mat_sell": 5240,
+    "ratio": 0.9465648854961832
+  },
+  {
+    "name": "Peach umbrella",
+    "mats": {
+      "Peach": 7
+    },
+    "hot_price": 2800,
+    "mat_sell": 3500,
+    "ratio": 0.8
+  },
+  {
+    "name": "Peach wall",
+    "mats": {
+      "Peach": 6
+    },
+    "hot_price": 8000,
+    "mat_sell": 3000,
+    "ratio": 2.6666666666666665
+  },
+  {
+    "name": "Pear bed",
+    "mats": {
+      "Pear": 10,
+      "Softwood": 6
+    },
+    "hot_price": 5440,
+    "mat_sell": 5360,
+    "ratio": 1.0149253731343284
+  },
+  {
+    "name": "Pear dress",
+    "mats": {
+      "Pear": 8
+    },
+    "hot_price": 3200,
+    "mat_sell": 4000,
+    "ratio": 0.8
+  },
+  {
+    "name": "Pear hat",
+    "mats": {
+      "Pear": 5
+    },
+    "hot_price": 2000,
+    "mat_sell": 2500,
+    "ratio": 0.8
+  },
+  {
+    "name": "Pear rug",
+    "mats": {
+      "Pear": 6
+    },
+    "hot_price": 2400,
+    "mat_sell": 3000,
+    "ratio": 0.8
+  },
+  {
+    "name": "Pear umbrella",
+    "mats": {
+      "Pear": 7
+    },
+    "hot_price": 2800,
+    "mat_sell": 3500,
+    "ratio": 0.8
+  },
+  {
+    "name": "Pear wall",
+    "mats": {
+      "Pear": 20
+    },
+    "hot_price": 8000,
+    "mat_sell": 10000,
+    "ratio": 0.8
+  },
+  {
+    "name": "Pear wardrobe",
+    "mats": {
+      "Pear": 10,
+      "Wood": 5
+    },
+    "hot_price": 5200,
+    "mat_sell": 5300,
+    "ratio": 0.9811320754716981
+  },
+  {
+    "name": "Pile of leaves",
+    "mats": {
+      "Pine cone": 3,
+      "Clump of weeds": 5
+    },
+    "hot_price": 2600,
+    "mat_sell": 650,
+    "ratio": 4
+  },
+  {
+    "name": "Pile of zen cushions",
+    "mats": {
+      "Zen cushion": 3
+    },
+    "hot_price": 1500,
+    "mat_sell": 375,
+    "ratio": 4
+  },
+  {
+    "name": "Pine bonsai tree",
+    "mats": {
+      "Pine cone": 8,
+      "Clay": 5
+    },
+    "hot_price": 8400,
+    "mat_sell": 2100,
+    "ratio": 4
+  },
+  {
+    "name": "Pisces lamp",
+    "mats": {
+      "Star fragment": 3,
+      "Pisces fragment": 2,
+      "Gold nugget": 2,
+      "Stone": 4
+    },
+    "hot_price": 44100,
+    "mat_sell": 22050,
+    "ratio": 2
+  },
+  {
+    "name": "Plain sink",
+    "mats": {
+      "Wood": 6,
+      "Clay": 4,
+      "Iron nugget": 1
+    },
+    "hot_price": 4540,
+    "mat_sell": 1135,
+    "ratio": 4
+  },
+  {
+    "name": "Plain wooden shop sign",
+    "mats": {
+      "Wood": 6
+    },
+    "hot_price": 1440,
+    "mat_sell": 360,
+    "ratio": 4
+  },
+  {
+    "name": "Pond stone",
+    "mats": {
+      "Stone": 10
+    },
+    "hot_price": 3000,
+    "mat_sell": 750,
+    "ratio": 4
+  },
+  {
+    "name": "Pot",
+    "mats": {
+      "Clay": 5
+    },
+    "hot_price": 2000,
+    "mat_sell": 500,
+    "ratio": 4
+  },
+  {
+    "name": "Potted ivy",
+    "mats": {
+      "Clump of weeds": 5,
+      "Clay": 5
+    },
+    "hot_price": 2200,
+    "mat_sell": 550,
+    "ratio": 4
+  },
+  {
+    "name": "Pretty cosmos wreath",
+    "mats": {
+      "Orange cosmos": 3,
+      "Pink cosmos": 3,
+      "Red cosmos": 3
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Pretty tulip wreath",
+    "mats": {
+      "Orange tulips": 3,
+      "Pink tulips": 3,
+      "Purple tulips": 3
+    },
+    "hot_price": 4800,
+    "mat_sell": 1200,
+    "ratio": 4
+  },
+  {
+    "name": "Purple hyacinth crown",
+    "mats": {
+      "Purple hyacinths": 6
+    },
+    "hot_price": 5760,
+    "mat_sell": 1440,
+    "ratio": 4
+  },
+  {
+    "name": "Purple hyacinth wreath",
+    "mats": {
+      "Purple hyacinths": 10
+    },
+    "hot_price": 9600,
+    "mat_sell": 2400,
+    "ratio": 4
+  },
+  {
+    "name": "Purple pansy crown",
+    "mats": {
+      "Purple pansies": 6
+    },
+    "hot_price": 5760,
+    "mat_sell": 1440,
+    "ratio": 4
+  },
+  {
+    "name": "Purple windflower crown",
+    "mats": {
+      "Purple windflowers": 6
+    },
+    "hot_price": 5760,
+    "mat_sell": 1440,
+    "ratio": 4
+  },
+  {
+    "name": "Raccoon figurine",
+    "mats": {
+      "Clay": 6
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Recycled boots",
+    "mats": {
+      "Boot": 2
+    },
+    "hot_price": 80,
+    "mat_sell": 20,
+    "ratio": 4
+  },
+  {
+    "name": "Recycled-can thumb piano",
+    "mats": {
+      "Empty can": 1,
+      "Wood": 1,
+      "Iron nugget": 1
+    },
+    "hot_price": 1780,
+    "mat_sell": 445,
+    "ratio": 4
+  },
+  {
+    "name": "Red-leaf pile",
+    "mats": {
+      "Maple leaf": 3,
+      "Clump of weeds": 4
+    },
+    "hot_price": 2560,
+    "mat_sell": 37,
+    "ratio": 69.1891891891892
+  },
+  {
+    "name": "Ringtoss",
+    "mats": {
+      "Wood": 2,
+      "Softwood": 2
+    },
+    "hot_price": 960,
+    "mat_sell": 240,
+    "ratio": 4
+  },
+  {
+    "name": "Robot hero",
+    "mats": {
+      "Star fragment": 10,
+      "Iron nugget": 110,
+      "Gold nugget": 18,
+      "Rusted part": 30
+    },
+    "hot_price": 500000,
+    "mat_sell": 224050,
+    "ratio": 2.2316447221602322
+  },
+  {
+    "name": "Rocket",
+    "mats": {
+      "Star fragment": 10,
+      "Iron nugget": 20
+    },
+    "hot_price": 40000,
+    "mat_sell": 10000,
+    "ratio": 4
+  },
+  {
+    "name": "Rocking chair",
+    "mats": {
+      "Wood": 3,
+      "Softwood": 5
+    },
+    "hot_price": 1920,
+    "mat_sell": 480,
+    "ratio": 4
+  },
+  {
+    "name": "Rocking horse",
+    "mats": {
+      "Softwood": 5
+    },
+    "hot_price": 1200,
+    "mat_sell": 300,
+    "ratio": 4
+  },
+  {
+    "name": "Rope fence",
+    "mats": {
+      "Iron nugget": 4
+    },
+    "hot_price": -2,
+    "mat_sell": 1500,
+    "ratio": -0.0013333333333333333
+  },
+  {
+    "name": "Rose bed",
+    "mats": {
+      "Red roses": 10,
+      "Wood": 5
+    },
+    "hot_price": 2800,
+    "mat_sell": 700,
+    "ratio": 4
+  },
+  {
+    "name": "Rose crown",
+    "mats": {
+      "Red roses": 2,
+      "Yellow roses": 2,
+      "White roses": 2
+    },
+    "hot_price": 960,
+    "mat_sell": 240,
+    "ratio": 4
+  },
+  {
+    "name": "Rose wand",
+    "mats": {
+      "Red roses": 1,
+      "Star fragment": 3
+    },
+    "hot_price": 3160,
+    "mat_sell": 790,
+    "ratio": 4
+  },
+  {
+    "name": "Rose wreath",
+    "mats": {
+      "Red roses": 3,
+      "White roses": 3,
+      "Yellow roses": 3
+    },
+    "hot_price": 1440,
+    "mat_sell": 360,
+    "ratio": 4
+  },
+  {
+    "name": "Sagittarius arrow",
+    "mats": {
+      "Star fragment": 3,
+      "Sagittarius fragment": 2,
+      "Gold nugget": 2
+    },
+    "hot_price": 43500,
+    "mat_sell": 21750,
+    "ratio": 2
+  },
+  {
+    "name": "Sakura-wood flooring",
+    "mats": {
+      "Cherry": 5,
+      "Wood": 10
+    },
+    "hot_price": 6400,
+    "mat_sell": 3100,
+    "ratio": 2.064516129032258
+  },
+  {
+    "name": "Sakura-wood wall",
+    "mats": {
+      "Cherry": 5,
+      "Wood": 10
+    },
+    "hot_price": 6400,
+    "mat_sell": 3100,
+    "ratio": 2.064516129032258
+  },
+  {
+    "name": "Sandy-beach flooring",
+    "mats": {
+      "Sea snail": 1,
+      "Venus comb": 1,
+      "Sand dollar": 1,
+      "Coral": 1,
+      "Giant clam": 1,
+      "Cowrie": 1
+    },
+    "hot_price": 8240,
+    "mat_sell": 2060,
+    "ratio": 4
+  },
+  {
+    "name": "Satellite",
+    "mats": {
+      "Star fragment": 10,
+      "Iron nugget": 15
+    },
+    "hot_price": 32500,
+    "mat_sell": 8125,
+    "ratio": 4
+  },
+  {
+    "name": "Sauna heater",
+    "mats": {
+      "Stone": 6,
+      "Iron nugget": 3,
+      "Wood": 3
+    },
+    "hot_price": 7020,
+    "mat_sell": 1755,
+    "ratio": 4
+  },
+  {
+    "name": "Scarecrow",
+    "mats": {
+      "Tree branch": 3,
+      "Clump of weeds": 5
+    },
+    "hot_price": 260,
+    "mat_sell": 65,
+    "ratio": 4
+  },
+  {
+    "name": "Scattered papers",
+    "mats": {
+      "Document stack": 1
+    },
+    "hot_price": 800,
+    "mat_sell": 400,
+    "ratio": 2
+  },
+  {
+    "name": "Sci-fi flooring",
+    "mats": {
+      "Star fragment": 5,
+      "Large star fragment": 1
+    },
+    "hot_price": 15000,
+    "mat_sell": 3750,
+    "ratio": 4
+  },
+  {
+    "name": "Sci-fi wall",
+    "mats": {
+      "Star fragment": 5,
+      "Large star fragment": 1
+    },
+    "hot_price": 15000,
+    "mat_sell": 3750,
+    "ratio": 4
+  },
+  {
+    "name": "Scorpio lamp",
+    "mats": {
+      "Star fragment": 3,
+      "Scorpius fragment": 2,
+      "Gold nugget": 2,
+      "Stone": 5
+    },
+    "hot_price": 44250,
+    "mat_sell": 22125,
+    "ratio": 2
+  },
+  {
+    "name": "Shell arch",
+    "mats": {
+      "Sea snail": 3,
+      "Venus comb": 3,
+      "Sand dollar": 3,
+      "Coral": 3,
+      "Giant clam": 3,
+      "Cowrie": 3
+    },
+    "hot_price": 24720,
+    "mat_sell": 6180,
+    "ratio": 4
+  },
+  {
+    "name": "Shell bed",
+    "mats": {
+      "Giant clam": 5,
+      "Clay": 3,
+      "Stone": 4
+    },
+    "hot_price": 20400,
+    "mat_sell": 5100,
+    "ratio": 4
+  },
+  {
+    "name": "Shell fountain",
+    "mats": {
+      "Giant clam": 5,
+      "Stone": 3
+    },
+    "hot_price": 18900,
+    "mat_sell": 4725,
+    "ratio": 4
+  },
+  {
+    "name": "Shell lamp",
+    "mats": {
+      "Giant clam": 2,
+      "Clay": 3
+    },
+    "hot_price": 8400,
+    "mat_sell": 2100,
+    "ratio": 4
+  },
+  {
+    "name": "Shell partition",
+    "mats": {
+      "Venus comb": 4,
+      "Conch": 4
+    },
+    "hot_price": 16000,
+    "mat_sell": 4000,
+    "ratio": 4
+  },
+  {
+    "name": "Shell rug",
+    "mats": {
+      "Giant clam": 3
+    },
+    "hot_price": 10800,
+    "mat_sell": 2700,
+    "ratio": 4
+  },
+  {
+    "name": "Shell speaker",
+    "mats": {
+      "Conch": 3,
+      "Iron nugget": 2
+    },
+    "hot_price": 11400,
+    "mat_sell": 2850,
+    "ratio": 4
+  },
+  {
+    "name": "Shell stool",
+    "mats": {
+      "Cowrie": 5
+    },
+    "hot_price": 1200,
+    "mat_sell": 300,
+    "ratio": 4
+  },
+  {
+    "name": "Shell table",
+    "mats": {
+      "Sand dollar": 7,
+      "Clay": 3
+    },
+    "hot_price": 4560,
+    "mat_sell": 1140,
+    "ratio": 4
+  },
+  {
+    "name": "Shell wand",
+    "mats": {
+      "Summer shell": 3,
+      "Star fragment": 3
+    },
+    "hot_price": 10200,
+    "mat_sell": 2550,
+    "ratio": 4
+  },
+  {
+    "name": "Shell wreath",
+    "mats": {
+      "Summer shell": 1,
+      "Sea snail": 1,
+      "Sand dollar": 1,
+      "Coral": 1,
+      "Giant clam": 1,
+      "Cowrie": 1
+    },
+    "hot_price": 9440,
+    "mat_sell": 2360,
+    "ratio": 4
+  },
+  {
+    "name": "Shellfish pochette",
+    "mats": {
+      "Giant clam": 2,
+      "Summer shell": 6
+    },
+    "hot_price": 21600,
+    "mat_sell": 5400,
+    "ratio": 4
+  },
+  {
+    "name": "Shovel",
+    "mats": {
+      "Hardwood": 5,
+      "Iron nugget": 1
+    },
+    "hot_price": 1200,
+    "mat_sell": 675,
+    "ratio": 1.7777777777777777
+  },
+  {
+    "name": "Signpost",
+    "mats": {
+      "Hardwood": 2,
+      "Softwood": 3
+    },
+    "hot_price": 1200,
+    "mat_sell": 300,
+    "ratio": 4
+  },
+  {
+    "name": "Silo",
+    "mats": {
+      "Iron nugget": 12,
+      "Hardwood": 6,
+      "Clay": 12,
+      "Stone": 12
+    },
+    "hot_price": 27840,
+    "mat_sell": 6960,
+    "ratio": 4
+  },
+  {
+    "name": "Simple DIY workbench",
+    "mats": {
+      "Hardwood": 5,
+      "Iron nugget": 1
+    },
+    "hot_price": 2700,
+    "mat_sell": 675,
+    "ratio": 4
+  },
+  {
+    "name": "Simple mum crown",
+    "mats": {
+      "Green mums": 6
+    },
+    "hot_price": 5760,
+    "mat_sell": 1440,
+    "ratio": 4
+  },
+  {
+    "name": "Simple well",
+    "mats": {
+      "Stone": 15,
+      "Hardwood": 5
+    },
+    "hot_price": 5700,
+    "mat_sell": 1425,
+    "ratio": 4
+  },
+  {
+    "name": "Simple wooden fence",
+    "mats": {
+      "Softwood": 6
+    },
+    "hot_price": -2,
+    "mat_sell": 360,
+    "ratio": -0.005555555555555556
+  },
+  {
+    "name": "Ski-slope flooring",
+    "mats": {
+      "Snowflake": 8
+    },
+    "hot_price": 6400,
+    "mat_sell": 1600,
+    "ratio": 4
+  },
+  {
+    "name": "Ski-slope wall",
+    "mats": {
+      "Snowflake": 8
+    },
+    "hot_price": 6400,
+    "mat_sell": 1600,
+    "ratio": 4
+  },
+  {
+    "name": "Sky-egg outfit",
+    "mats": {
+      "Sky egg": 3
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Sky-egg shell",
+    "mats": {
+      "Sky egg": 2
+    },
+    "hot_price": 1600,
+    "mat_sell": 400,
+    "ratio": 4
+  },
+  {
+    "name": "Sky-egg shoes",
+    "mats": {
+      "Sky egg": 2
+    },
+    "hot_price": 1600,
+    "mat_sell": 400,
+    "ratio": 4
+  },
+  {
+    "name": "Sleigh",
+    "mats": {
+      "Wood": 8
+    },
+    "hot_price": 1920,
+    "mat_sell": 480,
+    "ratio": 4
+  },
+  {
+    "name": "Slingshot",
+    "mats": {
+      "Hardwood": 5
+    },
+    "hot_price": 450,
+    "mat_sell": 300,
+    "ratio": 1.5
+  },
+  {
+    "name": "Small cardboard boxes",
+    "mats": {
+      "Cardboard box": 2
+    },
+    "hot_price": 240,
+    "mat_sell": 60,
+    "ratio": 4
+  },
+  {
+    "name": "Snazzy pansy wreath",
+    "mats": {
+      "Orange pansies": 3,
+      "Blue pansies": 3,
+      "Yellow pansies": 3
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Snowflake pochette",
+    "mats": {
+      "Snowflake": 6
+    },
+    "hot_price": 4800,
+    "mat_sell": 1200,
+    "ratio": 4
+  },
+  {
+    "name": "Snowflake wall",
+    "mats": {
+      "Snowflake": 12
+    },
+    "hot_price": 9600,
+    "mat_sell": 2400,
+    "ratio": 4
+  },
+  {
+    "name": "Snowflake wreath",
+    "mats": {
+      "Snowflake": 4
+    },
+    "hot_price": 3200,
+    "mat_sell": 800,
+    "ratio": 4
+  },
+  {
+    "name": "Snowperson head",
+    "mats": {
+      "Large snowflake": 1,
+      "Snowflake": 5
+    },
+    "hot_price": 14000,
+    "mat_sell": 999,
+    "ratio": 14.014014014014014
+  },
+  {
+    "name": "Space shuttle",
+    "mats": {
+      "Star fragment": 5,
+      "Iron nugget": 10
+    },
+    "hot_price": 20000,
+    "mat_sell": 5000,
+    "ratio": 4
+  },
+  {
+    "name": "Spiky fence",
+    "mats": {
+      "Hardwood": 8
+    },
+    "hot_price": -2,
+    "mat_sell": 480,
+    "ratio": -0.004166666666666667
+  },
+  {
+    "name": "Stack of books",
+    "mats": {
+      "Book": 5
+    },
+    "hot_price": 1450,
+    "mat_sell": 360,
+    "ratio": 4.027777777777778
+  },
+  {
+    "name": "Stacked magazines",
+    "mats": {
+      "Magazine": 6
+    },
+    "hot_price": 1260,
+    "mat_sell": 312,
+    "ratio": 4.038461538461538
+  },
+  {
+    "name": "Stacked-wood wall",
+    "mats": {
+      "Hardwood": 15
+    },
+    "hot_price": 3600,
+    "mat_sell": 900,
+    "ratio": 4
+  },
+  {
+    "name": "Stall",
+    "mats": {
+      "Wood": 12
+    },
+    "hot_price": 2880,
+    "mat_sell": 720,
+    "ratio": 4
+  },
+  {
+    "name": "Standard umbrella stand",
+    "mats": {
+      "Iron nugget": 3
+    },
+    "hot_price": 4500,
+    "mat_sell": 1125,
+    "ratio": 4
+  },
+  {
+    "name": "Star clock",
+    "mats": {
+      "Star fragment": 3,
+      "Iron nugget": 1
+    },
+    "hot_price": 4500,
+    "mat_sell": 1125,
+    "ratio": 4
+  },
+  {
+    "name": "Star head",
+    "mats": {
+      "Star fragment": 5
+    },
+    "hot_price": 5000,
+    "mat_sell": 1250,
+    "ratio": 4
+  },
+  {
+    "name": "Star pochette",
+    "mats": {
+      "Star fragment": 6
+    },
+    "hot_price": 6000,
+    "mat_sell": 1500,
+    "ratio": 4
+  },
+  {
+    "name": "Star wand",
+    "mats": {
+      "Large star fragment": 1,
+      "Star fragment": 3
+    },
+    "hot_price": 13000,
+    "mat_sell": 3250,
+    "ratio": 4
+  },
+  {
+    "name": "Starry garland",
+    "mats": {
+      "Star fragment": 10
+    },
+    "hot_price": 10000,
+    "mat_sell": 2500,
+    "ratio": 4
+  },
+  {
+    "name": "Starry wall",
+    "mats": {
+      "Star fragment": 5,
+      "Large star fragment": 1
+    },
+    "hot_price": 15000,
+    "mat_sell": 3750,
+    "ratio": 4
+  },
+  {
+    "name": "Starry-sands flooring",
+    "mats": {
+      "Summer shell": 3,
+      "Sea snail": 1,
+      "Venus comb": 1,
+      "Sand dollar": 1,
+      "Coral": 1,
+      "Giant clam": 1,
+      "Cowrie": 1
+    },
+    "hot_price": 15440,
+    "mat_sell": 3860,
+    "ratio": 4
+  },
+  {
+    "name": "Starry-sky wall",
+    "mats": {
+      "Star fragment": 5,
+      "Large star fragment": 1
+    },
+    "hot_price": 15000,
+    "mat_sell": 3750,
+    "ratio": 4
+  },
+  {
+    "name": "Steamer-basket set",
+    "mats": {
+      "Young spring bamboo": 6
+    },
+    "hot_price": 4800,
+    "mat_sell": 1200,
+    "ratio": 4
+  },
+  {
+    "name": "Steel flooring",
+    "mats": {
+      "Iron nugget": 7
+    },
+    "hot_price": 10500,
+    "mat_sell": 2625,
+    "ratio": 4
+  },
+  {
+    "name": "Steel-frame wall",
+    "mats": {
+      "Iron nugget": 8
+    },
+    "hot_price": 12000,
+    "mat_sell": 3000,
+    "ratio": 4
+  },
+  {
+    "name": "Stone arch",
+    "mats": {
+      "Stone": 90
+    },
+    "hot_price": 27000,
+    "mat_sell": 6750,
+    "ratio": 4
+  },
+  {
+    "name": "Stone axe",
+    "mats": {
+      "Tree branch": 5,
+      "Stone": 1,
+      "Wood": 3
+    },
+    "hot_price": 1120,
+    "mat_sell": 280,
+    "ratio": 4
+  },
+  {
+    "name": "Stone fence",
+    "mats": {
+      "Stone": 4
+    },
+    "hot_price": -2,
+    "mat_sell": 300,
+    "ratio": -0.006666666666666667
+  },
+  {
+    "name": "Stone stool",
+    "mats": {
+      "Stone": 3
+    },
+    "hot_price": 900,
+    "mat_sell": 225,
+    "ratio": 4
+  },
+  {
+    "name": "Stone table",
+    "mats": {
+      "Stone": 8
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Stone tablet",
+    "mats": {
+      "Stone": 12
+    },
+    "hot_price": 3600,
+    "mat_sell": 900,
+    "ratio": 4
+  },
+  {
+    "name": "Stone wall",
+    "mats": {
+      "Stone": 10
+    },
+    "hot_price": 3000,
+    "mat_sell": 750,
+    "ratio": 4
+  },
+  {
+    "name": "Stone-egg outfit",
+    "mats": {
+      "Stone egg": 3
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Stone-egg shell",
+    "mats": {
+      "Stone egg": 2
+    },
+    "hot_price": 1600,
+    "mat_sell": 400,
+    "ratio": 4
+  },
+  {
+    "name": "Stone-egg shoes",
+    "mats": {
+      "Stone egg": 2
+    },
+    "hot_price": 1600,
+    "mat_sell": 400,
+    "ratio": 4
+  },
+  {
+    "name": "Straw fence",
+    "mats": {
+      "Clump of weeds": 10,
+      "Wood": 3
+    },
+    "hot_price": -2,
+    "mat_sell": 280,
+    "ratio": -0.007142857142857143
+  },
+  {
+    "name": "Straw umbrella hat",
+    "mats": {
+      "Clump of weeds": 10
+    },
+    "hot_price": 400,
+    "mat_sell": 100,
+    "ratio": 4
+  },
+  {
+    "name": "Street piano",
+    "mats": {
+      "Upright piano": 1,
+      "Painting set": 1
+    },
+    "hot_price": 53510,
+    "mat_sell": 13377,
+    "ratio": 4.000149510353592
+  },
+  {
+    "name": "Succulent plant",
+    "mats": {
+      "Clump of weeds": 10,
+      "Empty can": 1
+    },
+    "hot_price": 440,
+    "mat_sell": 110,
+    "ratio": 4
+  },
+  {
+    "name": "Swinging bench",
+    "mats": {
+      "Wood": 5,
+      "Softwood": 7
+    },
+    "hot_price": 2880,
+    "mat_sell": 720,
+    "ratio": 4
+  },
+  {
+    "name": "Tabletop festive tree",
+    "mats": {
+      "Gold ornament": 5,
+      "Tree branch": 3,
+      "Clay": 2
+    },
+    "hot_price": 1860,
+    "mat_sell": 465,
+    "ratio": 4
+  },
+  {
+    "name": "Tall garden rock",
+    "mats": {
+      "Stone": 60
+    },
+    "hot_price": 18000,
+    "mat_sell": 4500,
+    "ratio": 4
+  },
+  {
+    "name": "Tall lantern",
+    "mats": {
+      "Stone": 18
+    },
+    "hot_price": 5400,
+    "mat_sell": 1350,
+    "ratio": 4
+  },
+  {
+    "name": "Taurus bathtub",
+    "mats": {
+      "Star fragment": 3,
+      "Taurus fragment": 2,
+      "Gold nugget": 1,
+      "Stone": 8
+    },
+    "hot_price": 24700,
+    "mat_sell": 12350,
+    "ratio": 2
+  },
+  {
+    "name": "Tea table",
+    "mats": {
+      "Hardwood": 12
+    },
+    "hot_price": 2880,
+    "mat_sell": 720,
+    "ratio": 4
+  },
+  {
+    "name": "Terrarium",
+    "mats": {
+      "Clump of weeds": 12,
+      "Iron nugget": 2
+    },
+    "hot_price": 3480,
+    "mat_sell": 870,
+    "ratio": 4
+  },
+  {
+    "name": "Three-tiered snowperson",
+    "mats": {
+      "Large snowflake": 1,
+      "Snowflake": 6,
+      "Tree branch": 2
+    },
+    "hot_price": 14840,
+    "mat_sell": 1209,
+    "ratio": 12.27460711331679
+  },
+  {
+    "name": "Tiki torch",
+    "mats": {
+      "Tree branch": 5,
+      "Wood": 5
+    },
+    "hot_price": 1300,
+    "mat_sell": 325,
+    "ratio": 4
+  },
+  {
+    "name": "Timber doorplate",
+    "mats": {
+      "Wood": 2,
+      "Pink roses": 1
+    },
+    "hot_price": 800,
+    "mat_sell": 200,
+    "ratio": 4
+  },
+  {
+    "name": "Tiny library",
+    "mats": {
+      "Book": 3,
+      "Wood": 5
+    },
+    "hot_price": 2070,
+    "mat_sell": 516,
+    "ratio": 4.011627906976744
+  },
+  {
+    "name": "Tire stack",
+    "mats": {
+      "Old tire": 3
+    },
+    "hot_price": 120,
+    "mat_sell": 30,
+    "ratio": 4
+  },
+  {
+    "name": "Tire toy",
+    "mats": {
+      "Old tire": 1
+    },
+    "hot_price": 40,
+    "mat_sell": 10,
+    "ratio": 4
+  },
+  {
+    "name": "Traditional balancing toy",
+    "mats": {
+      "Acorn": 4,
+      "Hardwood": 2
+    },
+    "hot_price": 3680,
+    "mat_sell": 920,
+    "ratio": 4
+  },
+  {
+    "name": "Traditional straw coat",
+    "mats": {
+      "Clump of weeds": 8
+    },
+    "hot_price": 320,
+    "mat_sell": 80,
+    "ratio": 4
+  },
+  {
+    "name": "Trash bags",
+    "mats": {
+      "Empty can": 1,
+      "Boot": 1,
+      "Old tire": 1
+    },
+    "hot_price": 120,
+    "mat_sell": 30,
+    "ratio": 4
+  },
+  {
+    "name": "Tree branch wreath",
+    "mats": {
+      "Tree branch": 10
+    },
+    "hot_price": 200,
+    "mat_sell": 50,
+    "ratio": 4
+  },
+  {
+    "name": "Tree standee",
+    "mats": {
+      "Wood": 5,
+      "Softwood": 8
+    },
+    "hot_price": 3120,
+    "mat_sell": 780,
+    "ratio": 4
+  },
+  {
+    "name": "Tree's bounty arch",
+    "mats": {
+      "Pine cone": 4,
+      "Acorn": 5,
+      "Maple leaf": 5,
+      "Tree branch": 15
+    },
+    "hot_price": 11500,
+    "mat_sell": 1870,
+    "ratio": 6.149732620320855
+  },
+  {
+    "name": "Tree's bounty big tree",
+    "mats": {
+      "Pine cone": 5,
+      "Acorn": 4,
+      "Maple leaf": 4,
+      "Tree branch": 8,
+      "Clay": 4
+    },
+    "hot_price": 12160,
+    "mat_sell": 2236,
+    "ratio": 5.438282647584973
+  },
+  {
+    "name": "Tree's bounty lamp",
+    "mats": {
+      "Acorn": 6,
+      "Clay": 4
+    },
+    "hot_price": 6400,
+    "mat_sell": 1600,
+    "ratio": 4
+  },
+  {
+    "name": "Tree's bounty little tree",
+    "mats": {
+      "Pine cone": 6,
+      "Acorn": 4,
+      "Hardwood": 1
+    },
+    "hot_price": 8240,
+    "mat_sell": 2060,
+    "ratio": 4
+  },
+  {
+    "name": "Tree's bounty mobile",
+    "mats": {
+      "Pine cone": 2,
+      "Acorn": 3,
+      "Tree branch": 3
+    },
+    "hot_price": 4060,
+    "mat_sell": 1015,
+    "ratio": 4
+  },
+  {
+    "name": "Tree-branch wand",
+    "mats": {
+      "Tree branch": 5,
+      "Star fragment": 3
+    },
+    "hot_price": 3100,
+    "mat_sell": 775,
+    "ratio": 4
+  },
+  {
+    "name": "Trophy case",
+    "mats": {
+      "Hardwood": 24,
+      "Gold nugget": 3,
+      "Iron nugget": 6
+    },
+    "hot_price": 67380,
+    "mat_sell": 33690,
+    "ratio": 2
+  },
+  {
+    "name": "Tropical vista",
+    "mats": {
+      "Summer shell": 5
+    },
+    "hot_price": 12000,
+    "mat_sell": 3000,
+    "ratio": 4
+  },
+  {
+    "name": "Tulip crown",
+    "mats": {
+      "Red tulips": 2,
+      "Yellow tulips": 2,
+      "White tulips": 1
+    },
+    "hot_price": 800,
+    "mat_sell": 200,
+    "ratio": 4
+  },
+  {
+    "name": "Tulip surprise box",
+    "mats": {
+      "Red tulips": 5,
+      "Softwood": 3
+    },
+    "hot_price": 1520,
+    "mat_sell": 380,
+    "ratio": 4
+  },
+  {
+    "name": "Tulip wand",
+    "mats": {
+      "Red tulips": 1,
+      "Star fragment": 3
+    },
+    "hot_price": 3160,
+    "mat_sell": 790,
+    "ratio": 4
+  },
+  {
+    "name": "Tulip wreath",
+    "mats": {
+      "Red tulips": 3,
+      "Yellow tulips": 3,
+      "White tulips": 3
+    },
+    "hot_price": 1440,
+    "mat_sell": 360,
+    "ratio": 4
+  },
+  {
+    "name": "Ukulele",
+    "mats": {
+      "Hardwood": 5
+    },
+    "hot_price": 1200,
+    "mat_sell": 300,
+    "ratio": 4
+  },
+  {
+    "name": "Underwater flooring",
+    "mats": {
+      "Summer shell": 3,
+      "Coral": 3
+    },
+    "hot_price": 13200,
+    "mat_sell": 3300,
+    "ratio": 4
+  },
+  {
+    "name": "Underwater wall",
+    "mats": {
+      "Summer shell": 3,
+      "Coral": 5
+    },
+    "hot_price": 17200,
+    "mat_sell": 4300,
+    "ratio": 4
+  },
+  {
+    "name": "Unglazed dish set",
+    "mats": {
+      "Clay": 3
+    },
+    "hot_price": 1200,
+    "mat_sell": 300,
+    "ratio": 4
+  },
+  {
+    "name": "Vaulting pole",
+    "mats": {
+      "Softwood": 5
+    },
+    "hot_price": 1200,
+    "mat_sell": 300,
+    "ratio": 4
+  },
+  {
+    "name": "Vertical-board fence",
+    "mats": {
+      "Wood": 8
+    },
+    "hot_price": -2,
+    "mat_sell": 480,
+    "ratio": -0.004166666666666667
+  },
+  {
+    "name": "Virgo harp",
+    "mats": {
+      "Star fragment": 3,
+      "Virgo fragment": 2,
+      "Gold nugget": 2,
+      "Stone": 4
+    },
+    "hot_price": 44100,
+    "mat_sell": 22050,
+    "ratio": 2
+  },
+  {
+    "name": "Wand",
+    "mats": {
+      "Star fragment": 2
+    },
+    "hot_price": 2000,
+    "mat_sell": 500,
+    "ratio": 4
+  },
+  {
+    "name": "Water flooring",
+    "mats": {
+      "Summer shell": 6
+    },
+    "hot_price": 14400,
+    "mat_sell": 3600,
+    "ratio": 4
+  },
+  {
+    "name": "Water pump",
+    "mats": {
+      "Iron nugget": 2,
+      "Clay": 6
+    },
+    "hot_price": 5400,
+    "mat_sell": 1350,
+    "ratio": 4
+  },
+  {
+    "name": "Water-egg outfit",
+    "mats": {
+      "Water egg": 3
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Water-egg shell",
+    "mats": {
+      "Water egg": 2
+    },
+    "hot_price": 1600,
+    "mat_sell": 400,
+    "ratio": 4
+  },
+  {
+    "name": "Water-egg shoes",
+    "mats": {
+      "Water egg": 2
+    },
+    "hot_price": 1600,
+    "mat_sell": 400,
+    "ratio": 4
+  },
+  {
+    "name": "Watering can",
+    "mats": {
+      "Softwood": 5,
+      "Iron nugget": 1
+    },
+    "hot_price": 1200,
+    "mat_sell": 675,
+    "ratio": 1.7777777777777777
+  },
+  {
+    "name": "Wave breaker",
+    "mats": {
+      "Stone": 10,
+      "Clay": 10
+    },
+    "hot_price": 7000,
+    "mat_sell": 1750,
+    "ratio": 4
+  },
+  {
+    "name": "Western-style stone",
+    "mats": {
+      "Stone": 30
+    },
+    "hot_price": 9000,
+    "mat_sell": 2250,
+    "ratio": 4
+  },
+  {
+    "name": "Wild log bench",
+    "mats": {
+      "Hardwood": 8
+    },
+    "hot_price": 1920,
+    "mat_sell": 480,
+    "ratio": 4
+  },
+  {
+    "name": "Wild-wood wall",
+    "mats": {
+      "Wood": 15
+    },
+    "hot_price": 3600,
+    "mat_sell": 900,
+    "ratio": 4
+  },
+  {
+    "name": "Windflower crown",
+    "mats": {
+      "Red windflowers": 2,
+      "Orange windflowers": 2,
+      "White windflowers": 2
+    },
+    "hot_price": 960,
+    "mat_sell": 240,
+    "ratio": 4
+  },
+  {
+    "name": "Windflower fan",
+    "mats": {
+      "Red windflowers": 3,
+      "Iron nugget": 2
+    },
+    "hot_price": 3480,
+    "mat_sell": 870,
+    "ratio": 4
+  },
+  {
+    "name": "Windflower wand",
+    "mats": {
+      "Orange windflowers": 1,
+      "Star fragment": 3
+    },
+    "hot_price": 3160,
+    "mat_sell": 790,
+    "ratio": 4
+  },
+  {
+    "name": "Windflower wreath",
+    "mats": {
+      "Red windflowers": 3,
+      "White windflowers": 3,
+      "Orange windflowers": 3
+    },
+    "hot_price": 1440,
+    "mat_sell": 360,
+    "ratio": 4
+  },
+  {
+    "name": "Wobbling Zipper toy",
+    "mats": {
+      "Earth egg": 4,
+      "Stone egg": 4,
+      "Leaf egg": 4,
+      "Wood egg": 4,
+      "Sky egg": 4,
+      "Water egg": 4
+    },
+    "hot_price": 0,
+    "mat_sell": 4800,
+    "ratio": 0
+  },
+  {
+    "name": "Wood-egg outfit",
+    "mats": {
+      "Wood egg": 3
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Wood-egg shell",
+    "mats": {
+      "Wood egg": 2
+    },
+    "hot_price": 1600,
+    "mat_sell": 400,
+    "ratio": 4
+  },
+  {
+    "name": "Wood-egg shoes",
+    "mats": {
+      "Wood egg": 2
+    },
+    "hot_price": 1600,
+    "mat_sell": 400,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden bookshelf",
+    "mats": {
+      "Book": 5,
+      "Wood": 10
+    },
+    "hot_price": 3850,
+    "mat_sell": 960,
+    "ratio": 4.010416666666667
+  },
+  {
+    "name": "Wooden bucket",
+    "mats": {
+      "Wood": 3,
+      "Iron nugget": 1
+    },
+    "hot_price": 2220,
+    "mat_sell": 555,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden chair",
+    "mats": {
+      "Wood": 6
+    },
+    "hot_price": 1440,
+    "mat_sell": 360,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden chest",
+    "mats": {
+      "Wood": 16
+    },
+    "hot_price": 3840,
+    "mat_sell": 960,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden double bed",
+    "mats": {
+      "Wood": 30
+    },
+    "hot_price": 7200,
+    "mat_sell": 1800,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden end table",
+    "mats": {
+      "Wood": 8
+    },
+    "hot_price": 1920,
+    "mat_sell": 480,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden fish",
+    "mats": {
+      "Wood": 3
+    },
+    "hot_price": 720,
+    "mat_sell": 180,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden full-length mirror",
+    "mats": {
+      "Wood": 5,
+      "Iron nugget": 1
+    },
+    "hot_price": 2700,
+    "mat_sell": 675,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden low table",
+    "mats": {
+      "Wood": 10
+    },
+    "hot_price": 2400,
+    "mat_sell": 600,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden mini table",
+    "mats": {
+      "Wood": 6
+    },
+    "hot_price": 1440,
+    "mat_sell": 360,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden simple bed",
+    "mats": {
+      "Wood": 18
+    },
+    "hot_price": 4320,
+    "mat_sell": 1080,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden stool",
+    "mats": {
+      "Wood": 4
+    },
+    "hot_price": 960,
+    "mat_sell": 240,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden table",
+    "mats": {
+      "Wood": 15
+    },
+    "hot_price": 3600,
+    "mat_sell": 900,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden table mirror",
+    "mats": {
+      "Wood": 3,
+      "Iron nugget": 1
+    },
+    "hot_price": 2220,
+    "mat_sell": 555,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden toolbox",
+    "mats": {
+      "Softwood": 4,
+      "Iron nugget": 2
+    },
+    "hot_price": 3960,
+    "mat_sell": 990,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden wardrobe",
+    "mats": {
+      "Wood": 12
+    },
+    "hot_price": 2880,
+    "mat_sell": 720,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden waste bin",
+    "mats": {
+      "Wood": 4
+    },
+    "hot_price": 960,
+    "mat_sell": 240,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden-block bed",
+    "mats": {
+      "Softwood": 20
+    },
+    "hot_price": 4800,
+    "mat_sell": 1200,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden-block bench",
+    "mats": {
+      "Softwood": 7
+    },
+    "hot_price": 1680,
+    "mat_sell": 420,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden-block bookshelf",
+    "mats": {
+      "Softwood": 6
+    },
+    "hot_price": 1440,
+    "mat_sell": 360,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden-block chair",
+    "mats": {
+      "Softwood": 6
+    },
+    "hot_price": 1440,
+    "mat_sell": 360,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden-block chest",
+    "mats": {
+      "Softwood": 15
+    },
+    "hot_price": 3600,
+    "mat_sell": 900,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden-block stereo",
+    "mats": {
+      "Softwood": 8,
+      "Iron nugget": 2
+    },
+    "hot_price": 4920,
+    "mat_sell": 1230,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden-block stool",
+    "mats": {
+      "Softwood": 5
+    },
+    "hot_price": 1200,
+    "mat_sell": 300,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden-block table",
+    "mats": {
+      "Softwood": 11
+    },
+    "hot_price": 2640,
+    "mat_sell": 660,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden-block toy",
+    "mats": {
+      "Softwood": 3
+    },
+    "hot_price": 720,
+    "mat_sell": 180,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden-block wall clock",
+    "mats": {
+      "Softwood": 5,
+      "Iron nugget": 1
+    },
+    "hot_price": 2700,
+    "mat_sell": 675,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden-mosaic wall",
+    "mats": {
+      "Wood": 15
+    },
+    "hot_price": 3600,
+    "mat_sell": 900,
+    "ratio": 4
+  },
+  {
+    "name": "Wooden-plank sign",
+    "mats": {
+      "Hardwood": 5
+    },
+    "hot_price": 1200,
+    "mat_sell": 300,
+    "ratio": 4
+  },
+  {
+    "name": "Yellow-leaf pile",
+    "mats": {
+      "Acorn": 3,
+      "Clump of weeds": 5
+    },
+    "hot_price": 2600,
+    "mat_sell": 650,
+    "ratio": 4
+  },
+  {
+    "name": "Zen fence",
+    "mats": {
+      "Iron nugget": 3,
+      "Clay": 3,
+      "Stone": 3
+    },
+    "hot_price": -2,
+    "mat_sell": 1650,
+    "ratio": -0.0012121212121212121
+  },
+  {
+    "name": "Zen-style stone",
+    "mats": {
+      "Stone": 30
+    },
+    "hot_price": 9000,
+    "mat_sell": 2250,
+    "ratio": 4
+  }
+]
