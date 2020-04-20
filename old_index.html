@@ -29,16 +29,17 @@
     <script id="item-template" type="text/x-handlebars-template">
         <div class="item">
             <h3>{{name}}</h3>
-            <div><strong>hot price</strong>: {{hot_price}}</div>
-            <div><strong>mats sell for</strong>: {{mat_sell}}</div>
-            <div><strong>ratio</strong>: x{{ratio}}</div>
+            <div><strong>sell</strong>: {{sell}}</div>
+            <div><strong>craftable</strong>: {{dIY}}</div>
+            {{#if dIY}}
             <div>
                 <span><strong>materials:</strong></span>
                 <ul>
-                    {{#each mats}}
-                        <li>{{@key}}: {{this}}</li>
+                    {{#each materials}}
+                        <li>{{this.itemName}}: {{this.count}}</li>
                     {{/each}}
                 </ul>
+            {{/if}}
             </div>
         </div>
     </script>
@@ -46,13 +47,22 @@
     (function() {
         var itemTemplateSource = document.getElementById("item-template").innerHTML;
         var itemTemplate = Handlebars.compile(itemTemplateSource);
-        $.getJSON("https://gailbear.github.io/acnh/hot_items.json", null).done(function(data) {
-            var items = data;
-            var itemsMap = {};
-            data.map(i => itemsMap[i.name] = i);
-            var itemNames = Object.keys(itemsMap);
+        $.getJSON("https://gailbear.github.io/acnh/acnh_items.json", null).done(function(data) {
+            var items = data.results;
 
-            var go = (a, b, result, e) => $('#target').html(itemTemplate(itemsMap[result[result.matchedKey]]))
+            var megaItemsMap = {}
+            items.filter(i => i.dIY || i.category === "Recipes")
+                .map(item => megaItemsMap[item.name] = Object.assign({}, item, megaItemsMap[item.name]));
+
+            var itemNames = Object.keys(megaItemsMap);
+
+            var onChoose = (a, b, result, e) => {
+                var itemName = result[result.matchedKey];
+                var result = megaItemsMap[result];
+                result.reverse();
+                var megaObject = Object.assign({}, ...result);
+                $('#target').html(itemTemplate(megaObject));
+            }
 
             $('.js-typeahead').typeahead({
                 order: 'asc',
@@ -61,10 +71,9 @@
                         data: itemNames
                     }
                 },
-                mustSelectItem: true,
                 callback: {
-                    onClickAfter: go,
-                    onSubmit: go,
+                    onClickAfter: onChoose,
+                    onSubmit: onChoose
                 }
             });
         });
