@@ -525,12 +525,12 @@
   {
     "name": "Blossom-viewing lantern",
     "mats": {
-      "Cherry": 6
+      "Cherry-blossom petal": 6
     },
     "hot_price": 5760,
-    "mat_sell": 3000,
-    "mat_buy": 2400,
-    "ratio": 1.92
+    "mat_sell": -6,
+    "mat_buy": 0,
+    "ratio": -960
   },
   {
     "name": "Blue rose crown",
@@ -1062,48 +1062,48 @@
   {
     "name": "Cherry-blossom bonsai",
     "mats": {
-      "Cherry": 6,
+      "Cherry-blossom petal": 6,
       "Hardwood": 2,
       "Clump of weeds": 3,
       "Clay": 3
     },
     "hot_price": 6600,
-    "mat_sell": 3450,
-    "mat_buy": 2400,
-    "ratio": 1.9130434782608696
+    "mat_sell": 444,
+    "mat_buy": 0,
+    "ratio": 14.864864864864865
   },
   {
     "name": "Cherry-blossom branches",
     "mats": {
-      "Cherry": 8,
+      "Cherry-blossom petal": 8,
       "Tree branch": 4,
       "Clay": 5
     },
     "hot_price": 8480,
-    "mat_sell": 4520,
-    "mat_buy": 3200,
-    "ratio": 1.8761061946902655
+    "mat_sell": 512,
+    "mat_buy": 0,
+    "ratio": 16.5625
   },
   {
     "name": "Cherry-blossom clock",
     "mats": {
-      "Cherry": 5
+      "Cherry-blossom petal": 5
     },
     "hot_price": 5500,
-    "mat_sell": 2500,
-    "mat_buy": 2000,
-    "ratio": 2.2
+    "mat_sell": -5,
+    "mat_buy": 0,
+    "ratio": -1100
   },
   {
     "name": "Cherry-blossom flooring",
     "mats": {
-      "Cherry": 10,
+      "Cherry-blossom petal": 10,
       "Clump of weeds": 20
     },
     "hot_price": 8800,
-    "mat_sell": 5200,
-    "mat_buy": 4000,
-    "ratio": 1.6923076923076923
+    "mat_sell": 190,
+    "mat_buy": 0,
+    "ratio": 46.31578947368421
   },
   {
     "name": "Cherry-blossom pochette",
@@ -1119,54 +1119,54 @@
     "name": "Cherry-blossom pond stone",
     "mats": {
       "Stone": 10,
-      "Cherry": 3
+      "Cherry-blossom petal": 3
     },
     "hot_price": 5400,
-    "mat_sell": 2250,
-    "mat_buy": 1200,
-    "ratio": 2.4
+    "mat_sell": 747,
+    "mat_buy": 0,
+    "ratio": 7.228915662650603
   },
   {
     "name": "Cherry-blossom umbrella",
     "mats": {
-      "Cherry": 7
+      "Cherry-blossom petal": 7
     },
     "hot_price": 5600,
-    "mat_sell": 3500,
-    "mat_buy": 2800,
-    "ratio": 1.6
+    "mat_sell": -7,
+    "mat_buy": 0,
+    "ratio": -800
   },
   {
     "name": "Cherry-blossom wand",
     "mats": {
-      "Cherry": 3,
+      "Cherry-blossom petal": 3,
       "Star fragment": 3
     },
     "hot_price": 5400,
-    "mat_sell": 2250,
-    "mat_buy": 1200,
-    "ratio": 2.4
+    "mat_sell": 747,
+    "mat_buy": 0,
+    "ratio": 7.228915662650603
   },
   {
     "name": "Cherry-blossom-petal pile",
     "mats": {
-      "Cherry": 5
+      "Cherry-blossom petal": 5
     },
     "hot_price": 4000,
-    "mat_sell": 2500,
-    "mat_buy": 2000,
-    "ratio": 1.6
+    "mat_sell": -5,
+    "mat_buy": 0,
+    "ratio": -800
   },
   {
     "name": "Cherry-blossom-trees wall",
     "mats": {
-      "Cherry": 10,
+      "Cherry-blossom petal": 10,
       "Hardwood": 5
     },
     "hot_price": 9200,
-    "mat_sell": 5300,
-    "mat_buy": 4000,
-    "ratio": 1.7358490566037736
+    "mat_sell": 290,
+    "mat_buy": 0,
+    "ratio": 31.724137931034484
   },
   {
     "name": "Chic cosmos wreath",
@@ -3360,12 +3360,12 @@
   {
     "name": "Log decorative shelves",
     "mats": {
-      "Hardwood": 8
+      "Hardwood": 13
     },
     "hot_price": 3120,
-    "mat_sell": 480,
+    "mat_sell": 780,
     "mat_buy": 0,
-    "ratio": 6.5
+    "ratio": 4
   },
   {
     "name": "Log dining table",
@@ -3380,12 +3380,12 @@
   {
     "name": "Log extra-long sofa",
     "mats": {
-      "Hardwood": 8
+      "Hardwood": 16
     },
     "hot_price": 3840,
-    "mat_sell": 480,
+    "mat_sell": 960,
     "mat_buy": 0,
-    "ratio": 8
+    "ratio": 4
   },
   {
     "name": "Log garden lounge",
@@ -4047,12 +4047,12 @@
   {
     "name": "Outdoor picnic set",
     "mats": {
-      "Cherry": 10
+      "Cherry-blossom petal": 10
     },
     "hot_price": 8000,
-    "mat_sell": 5000,
-    "mat_buy": 4000,
-    "ratio": 1.6
+    "mat_sell": -10,
+    "mat_buy": 0,
+    "ratio": -800
   },
   {
     "name": "Palm-tree lamp",
@@ -4608,24 +4608,24 @@
   {
     "name": "Sakura-wood flooring",
     "mats": {
-      "Cherry": 5,
+      "Cherry-blossom petal": 5,
       "Wood": 10
     },
     "hot_price": 6400,
-    "mat_sell": 3100,
-    "mat_buy": 2000,
-    "ratio": 2.064516129032258
+    "mat_sell": 595,
+    "mat_buy": 0,
+    "ratio": 10.756302521008404
   },
   {
     "name": "Sakura-wood wall",
     "mats": {
-      "Cherry": 5,
+      "Cherry-blossom petal": 5,
       "Wood": 10
     },
     "hot_price": 6400,
-    "mat_sell": 3100,
-    "mat_buy": 2000,
-    "ratio": 2.064516129032258
+    "mat_sell": 595,
+    "mat_buy": 0,
+    "ratio": 10.756302521008404
   },
   {
     "name": "Sandy-beach flooring",
